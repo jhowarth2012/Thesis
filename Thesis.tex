@@ -1,0 +1,182 @@
+\documentclass[12pt]{report}
+\usepackage[a4paper]{geometry}
+%\geometry{left=41mm,right=24mm,top=35mm,bottom=25mm} %add twoside for double sided
+\geometry{left=24mm,right=24mm,top=35mm,bottom=25mm} %add twoside for double sided printing
+\usepackage[tight]{subfigure}
+\usepackage{rotating}
+\usepackage{pifont}
+\usepackage{lscape}
+\usepackage{setspace}
+\usepackage{amsmath}
+\usepackage{multirow}
+\usepackage{multicol}
+\usepackage{sidecap}
+\usepackage{comment}
+\usepackage{graphics,amssymb,float,psfrag}
+\usepackage{hyperref}
+\usepackage{url}
+\usepackage[usenames]{color}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage{morefloats}
+\usepackage{todonotes}
+\usepackage[font=small,labelfont=bf]{caption}
+\usepackage{mathrsfs}
+
+\graphicspath{{f/}}
+
+\newcommand{\etmiss}{$\et^{\textrm{miss}}$}
+\newcommand{\dphi}{$\Delta\phi$}
+\newcommand{\coscos}{$cos(\theta^{+})cos(\theta^{-})$}
+\newcommand{\coscosbl}{$cos(\theta^{+})cos(\theta^{-})_{Beamline}$}
+\newcommand{\coscoshb}{$cos(\theta^{+})cos(\theta^{-})_{Helicity}$}
+\newcommand{\coscosop}{$cos(\theta^{+})cos(\theta^{-})_{Maximal}$}
+\newcommand{\ee}{$e^{\pm} e^{\mp}$}
+\newcommand{\emu}{$e^{\pm} \mu^{\mp}$}
+\newcommand{\mumu}{$\mu^{\pm} \mu^{\mp}$}
+\newcommand{\Ztautau}{$Z\rightarrow \tau^{+} \tau^{-} $}
+\newcommand{\ppm}{$\pm$}
+\newcommand{\rone}{\textcolor{Blue}{\mathbf{r_1}}}
+\newcommand{\rtwo}{\textcolor{Blue}{\mathbf{r_2}}}
+\newcommand{\fone}{\textcolor{Red}{\mathbf{f_1}}}
+\newcommand{\ftwo}{\textcolor{Red}{\mathbf{f_2}}}
+
+\newcommand{\metx}{E\kern-0.6em\slash_{x}}
+\newcommand{\mety}{E\kern-0.6em\slash_{y}}
+\newcommand{\sigmet}{\sigma_{E\kern-0.4em\slash_{x}}}
+%\newcommand{\metx}{\mbox{\ensuremath{E\kern-0.6em\slash_x}}\xspace}
+%\newcommand{\mety}{\mbox{\ensuremath{E\kern-0.6em\slash_y}}\xspace}
+%\newcommand{\sigmet}{\ensuremath{\sigma_{E \kern-0.4em\slash_T}}\xspace}
+
+\setlength{\abovecaptionskip}{6pt}   % 0.5cm as an example
+\setlength{\belowcaptionskip}{6pt}   % 0.5cm as an example
+\addtolength{\belowcaptionskip}{-1mm}
+\onehalfspacing
+\input{ThesisLatexCommands.tex}
+
+
+\makeatletter
+\renewenvironment{description}
+{\list{$\bullet$}{\leftmargin\z@ \labelwidth\z@ \itemindent-\leftmargin
+\let\makelabel\descriptionlabel}}
+{\endlist}
+\makeatother
+
+
+\begin{document}
+
+\begin{titlepage}
+\setcounter{page}{1}
+
+
+\begin{center}
+\huge
+{\bf
+Observation of Spin Correlations in \ttbar\ events in \boldmath{$\sqrt{s}$} = 7~TeV collisions at the ATLAS detector.
+}
+
+\vspace*{2.cm}
+
+\normalsize
+A thesis submitted to the University of Manchester for
+the degree of Doctor of Philosophy in the Faculty of
+Engineering and Physical Sciences
+
+\vspace*{2.cm}
+
+\large
+{ \bf
+2013\\
+\vspace{2.cm}
+J.W. Howarth\\
+\vspace{1.cm}
+Particle Physics Group\\
+School of Physics and Astronomy\\
+}
+\end{center}\end{titlepage}
+
+\setcounter{page}{2}
+\singlespacing
+\tableofcontents
+\onehalfspacing
+\begin{center}
+{\it Total word count: 42}
+\end{center}
+
+\clearpage
+%\singlespacing
+%\listoffigures 
+\onehalfspacing
+%\listoftables 
+\onehalfspacing
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%BEGINNING SECTIONS : Abstract/Declaration/Copyright/Acknowledgements
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\clearpage
+\chapter*{Abstract}
+\addcontentsline{toc}{chapter}{Abstract}
+\input{ch_abstract.tex}
+
+\chapter*{Declaration}
+\addcontentsline{toc}{chapter}{Declaration}
+\input{ch_declaration.tex}
+
+\chapter*{Copyright}
+\addcontentsline{toc}{chapter}{Copyright}
+\input{ch_copyright.tex}
+
+\chapter*{Acknowledgements}
+\addcontentsline{toc}{chapter}{Acknowledgements}
+\input{ch_acknowledgements.tex}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% START OF THESIS 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\clearpage
+\listoftodos
+
+\clearpage
+\input{TheTopQuark.tex}
+
+\clearpage
+\input{AtlasDetector.tex}
+
+\clearpage
+\input{TriggerMonitoring.tex}
+
+\clearpage
+\input{Observables.tex}
+
+\clearpage
+\input{EventReconstruction.tex}
+
+\clearpage
+\input{Extraction.tex}
+
+\clearpage
+\input{Results.tex}
+
+\clearpage
+\input{Summary.tex}
+
+%\chapter{Conclusions}
+%\label{Chapter:Conclusions}
+%\input{ch_conclusion.tex}
+
+\clearpage
+\bibliographystyle{h-physrev3}
+\bibliography{Thesis_bib}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% START OF APPENDIX
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\appendix
+
+%\clearpage
+%\chapter{Neutrino Solution}
+%\label{Chapter:NeuSol}
+%\input{ch_NeutrinoSol.tex}
+
+\end{document}

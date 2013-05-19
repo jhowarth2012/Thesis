@@ -1,0 +1,22 @@
+\begin{thebibliography}{1}
+
+\bibitem{LeptonTrigger}
+T.~A. Collaboration,
+\newblock CERN Report No. ATL-COM-PHYS-2011-123, 2011 (unpublished).
+
+\bibitem{fakes}
+{B. Abi, et al.}
+
+\bibitem{topwg}
+{B. Acharya, et al.}
+
+\bibitem{Meyer:2007zz}
+J.~M. Meyer,
+\newblock (2007).
+%%CITATION = FERMILAB-THESIS-2007-65 ETC.;%%
+
+\bibitem{nuWtmass}
+V.~M.~A. et~al.,
+\newblock Phys. Rev. D {\bf 80}, 092006 (2009).
+
+\end{thebibliography}

@@ -1,0 +1,193 @@
+\chapter{Variables sensitive to Spin Correlation}
+\label{chapter:Variables}
+
+The spin information of the top quarks may be accessed directly via their decay particles. In the SM top quarks decay almost exclusively to W bosons and b quarks. The b quarks go on to form bjets that are observable in the detector, and the W bosons decay to either a lepton and neutrino, or a up and down type jet pair. \ttbar\ decays are classified based on the decay mode of the W boson (for which there are two in each event). If both W bosons decay leptonically then this is said to be the 'dilepton' channel, and this is the channel that is used for this study. If one of the W bosons decays hadronically and one leptonically then this is said to be the 'semi-leptonic' decay channel, and if both W's decay hadronically then this is said to be the 'all hadronic' channel.
+
+An important property of each channel to consider is how much of the spin information from the \ttbar\ pair may be accessed via the decay particles. Table \ref{tab:alphas} shows the spin analysing power of each particle in the \ttbar\ decay. The charged leptons coming from the W boson decay carry the full spin information of the parent top quarks, and hence observables constructed with the two charged leptons in the dilepton channel have the highest sensitivity. The down type quark originating from the W bosons decay also has high spin analysing power however these are difficult to differentiate from the less sensitive up type jet from the same W, and hence the semi-leptonic channel loses some sensitivity. In previous results from the Tevatron, the principal disadvantage of the dilepton channel was it's limited statistics. Though the dilepton decay channel's branching ratio is only 20\% of the semi-leptonic channels, this is no longer a limiting factor due to the large statistics availible at the LHC. The dilepton channel is therefore the most sensitive channel for spin correlation analyses. 
+
+The dilepton channel also offers experimental advantages over other channels. The signal for dilepton events is typically much cleaner than that for semi-leptonic, and with the addition of btagging requirements, backgrounds from other physics signals may be reduced to less than 10\% of the signal. 
+
+The spin information for the top quarks can be readily accessed through the angular distributions of it's decay particles (equation \ref{equ:topdiffxsec}), and the majority of the observable exploit this fact. Equation \ref{equ:topdiffxsec} shows the top differential cross section, where $\theta_i$ is the angle of the charged lepton relative to the top helicity in the \ttbar\ rest frame, P is the polarisation of the top and $\alpha_i$ is the spin analysing power of the lepton. We can also construct the double differential cross section (\ref{eq:coscos}) where in this case we have assumed that the polarisation parameter, P, is equal to 1 and where $\sigma$ denotes the cross section of the channel under
+consideration. $C$ is a free parameter between -1 and 1 that depends on the choice of the spin basis. At tree level in the SM, where the spin analysing power of the charged leptons is +1, $C=A$ represents the number of events where the $t$ and $\bar{t}$ spins are parallel minus the number of events where they are anti-parallel normalized by the total number of events:
+
+\begin{equation}
+    A = \frac{N_{like} - N_{unlike}}{N_{like} + N_{unlike}} =
+     \frac{N(\uparrow \uparrow) + N(\downarrow \downarrow) - N(\uparrow \downarrow) - N(\downarrow \uparrow)}
+     {N(\uparrow \uparrow) + N(\downarrow \downarrow) + N(\uparrow \downarrow) + N(\downarrow \uparrow)}.
+    \label{eqno1}
+\end{equation}
+$\theta_+$ ($\theta_-$) describes the angle between
+the direction of flight of the lepton $\ell^+$ ($\ell'^-$) in the \ttbar\ rest frame and a reference direction $\bf \hat{a}$ ($\bf\hat{b}$). The choice of spin basis determines the extent to which the spins of the top quarks are correlated. The choice of basis is discussed further in section \ref{sec:coscos}.
+
+\begin{equation}
+	\frac{1}{\sigma}\frac{d^2\sigma}{d[\cos{(\theta_i)}]d[\cos{(\theta_j)}]}= \frac{1}{4}[ 1 + \textcolor{Red}{\mathbf{P}}\textcolor{Green}{\boldsymbol{\alpha_i}}\cos{(\theta_i)} + \textcolor{Red}{\mathbf{P}}\textcolor{Green}{\boldsymbol{\alpha_j}}\cos{(\theta_j)} + \textcolor{blue}{\mathbf{A}}\textcolor{Green}{\boldsymbol{\alpha_i\alpha_j}}\cos{(\theta_i)}\cos{(\theta_j)}]
+\end{equation}
+
+\begin{equation}
+	\begin{aligned}
+	    	\textcolor{blue}{\mathbf{A}} &=\frac{N(\uparrow \uparrow) + N(\downarrow \downarrow) - N(\uparrow \downarrow) - N(\downarrow \uparrow)}{N(\uparrow \uparrow) + N(\downarrow \downarrow) + N(\uparrow \downarrow) + N(\downarrow \uparrow)} \\
+		\textcolor{Green}{\boldsymbol{\alpha_{i/j}}} &= \text{\scriptsize{Spin Analysing Power of Analyser i/j}} \\
+		\boldsymbol{\theta_{i/j}} &= \text{\scriptsize{Angle between Analyser and Basis}}\\
+                \textcolor{Red}{\mathbf{P}} &= \frac{N(\cos(\theta_{i,j}) > 0) - N(\cos(\theta_{i,j}) < 0}{N(\cos(\theta_{i,j}) > 0) + N(\cos(\theta_{i,j}) < 0} \\
+	\end{aligned}
+\end{equation}
+
+\begin{equation}
+    \textcolor{Red}{\mathbf{P}} = \text{Polarisation of top/anti top}
+\end{equation}
+
+\begin{equation}
+    \textcolor{Green}{\boldsymbol{\alpha_{i/j}}} = \text{Spin Analysing Power of lepton i/j}
+\end{equation}
+
+\begin{equation}
+	A^{i}_{C} = \frac{N(\Delta |y^i| > 0) - N(\Delta |y^i| < 0)}{N(\Delta |y^i| > 0) + N(\Delta |y^i| < 0)}
+\end{equation}
+
+\begin{equation}
+	\mathbf{P} = \frac{N(\cos(\theta_{l,n}) > 0) - N(\cos(\theta_{l,n}) < 0}{N(\cos(\theta_{l,n}) > 0) + N(\cos(\theta_{l,n}) < 0}
+\end{equation}
+
+\begin{equation}
+	\begin{aligned}
+	|\Delta y^i | &= |y^{t~~}| - |y^{\bar{t~~}}| \\
+	                 &= |y^{l^{+}}| - |y^{l^{-}}| \\
+	                 &= |\eta^{l^{+}}| - |\eta^{l^{-}}| \\
+	\end{aligned}
+\end{equation}
+
+
+\begin{equation}
+	\begin{aligned}
+	A^{\l\l}_C &= 0.023 \pm 0.012 (stat.) \pm 0.008 (syst.) \\
+	A^{\l\l}_C &= 0.004 \pm 0.001 (prediction)
+	\end{aligned}
+\end{equation}
+
+\begin{equation}
+	\begin{aligned}
+	A^{t\bar{t}}_C &= 0.057 \pm 0.024 (stat.) \pm 0.015 (syst.) \\
+	A^{t\bar{t}}_C &= 0.006 \pm 0.002 (prediction)
+	\end{aligned}
+\end{equation}
+
+
+
+\begin{equation}
+	\begin{aligned}
+	A_{C}^{inclusive} &= -0.019 \pm 0.028~\text{(stat.)} \pm 0.024~\text{(syst.)} \\
+	A_{C}^{high}       &= -0.052 \pm 0.070~\text{(stat.)} \pm 0.054~\text{(syst.)}~m_{t\bar{t}} < 450 GeV \\
+	A_{C}^{low}         &= -0.008 \pm 0.035~\text{(stat.)} \pm 0.032~\text{(syst.)}~m_{t\bar{t}} > 450 GeV \\
+	\end{aligned}
+\end{equation}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%% equation %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%                                                                                                             
+\begin{equation}
+\frac{1}{N} \frac{dN}{d \cos (\theta_i)} = \frac{1}{2} \left[1 + P \alpha_i \cos(\theta_i) \right],
+\end{equation}
+\label{equ:topdiffxsec}
+
+
+\begin{equation}
+\label{eq:coscos}
+\frac{1}{\sigma} \frac{d\sigma}{d\cos\theta_+ d\cos\theta_-} =
+\frac{1}{4} ( 1 - C \cos\theta_+ \cos\theta_- ) \,\, ,
+\end{equation}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%                                                                                                             
+
+\begin{table}[htbp]
+\begin{center}
+\begin{tabular}{|c||c|c||c||c|c|}
+\hline
+%\BB \TT & $b$-quark & $W^+$ & $l^+$ & $\bar{d}$-quark or $\bar{s}$-quark& $u$-quark or $c$-quark\\
+blah & $b$-quark & $W^+$ & $l^+$ & $\bar{d}$-quark or $\bar{s}$-quark& $u$-quark or $c$-quark\\
+\hline
+$\alpha_i$ (LO) & -0.41 & 0.41 & 1 & 1 & -0.31 \\
+$\alpha_i$ (NLO) & -0.39 & 0.39 & 0.998 & 0.93 & -0.31 \\
+\hline
+\end{tabular}
+\end{center}
+\caption{Standard Model spin analysing power, at leading order and next-to-leading order 
+for the decay products of the top quark from the decay $t \ra bW^+$.  The decay products of the $W$-boson 
+can also be used as spin analysers, hence the decay products from leptonic decays 
+$W^+ \ra l^+\nu_l$ and the hadronic decays $W \ra q_1\bar{q}_2$ are given in the table.  
+Signs are reversed for a spin down top quark \cite{hubaut, Czarnecki:1990pe, Brandenburg:2002xr}.}
+\label{tab:alphas}
+\end{table}
+
+\section{\dphi}
+It has been shown in previous studies~\cite{mahlon2010,atlasspinprl} that the difference in the azimuthal angle between the two charged leptons in the dilepton decay is sensitive to spin correlations. This variable has important advantages to consider, particularly for the dilepton analysis. Firstly, it may be measured in the laboratory frame and hence does not require full \ttbar\ event reconstruction (which typically is not possible for all events). This production methods is the dominant mechanism at the LHC via gluon-gluon fusion. This suggests that the \dphi variable should show obvious differences between the SM spin case, and the no spin correlation case. Indeed this can be readily seen in figure \ref{fig:parton_dphi}.  These features make this variable ideal for observation of spin correlations~\cite{atlasspinprl}  however it is lacking in sensitivity in the quark-anti quark annihilation sector, where some new physics models are predicted to have observable effects.
+
+An example of this variable is shown in figure \ref{fig:parton_dphi} showing \dphi with both SM spin correlations and no spin correlation. This variable has also been studied as a possible observation variable for light stop production in SUSY~\cite{lightstop}.
+
+\begin{figure}[htpb!]
+\begin{center}
+%\includegraphics[width=75mm]{f/dilepton_delta_phi_7000}
+%\includegraphics[width=50mm]{f/dilepton_delta_phi_400_7000}
+\end{center}
+\caption{Distribution of \dphi\ for parton level events at $\sqrt{s}=7$~TeV. The histogram shows the Standard Model and uncorrelated scenarios. }
+%\caption{Distribution of \dphi\ for parton level events at $\sqrt{s}=7$~TeV (left) and with                                                                                       
+%a cut requiring m(\ttbar) $< 400$~GeV (right).  The two histograms show the Standard Model and                                                                                    
+%uncorrelated scenarios. An increase in the seperation between the two templates can be readily                                                                                    
+%seen with the addition of an invariant mass cut.}      
+\label{fig:parton_dphi}
+\end{figure} 
+
+\section{Angular correlation}
+\label{sec:coscos}
+Another variable directly correlated with the \ttbar\ spin correlation is \coscos. 
+The double differential distribution for a measurement of  
+spin correlations between $t$ and $\bar{t}$ is described in equation \ref{eq:coscos}. The degree of observable spin correlation is not fixed and a choice must be made to optimise the spin correlation parameter.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% equation %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\begin{equation}
+%\label{eq:coscos}
+%\frac{1}{\sigma} \frac{d\sigma}{d\cos\theta_+ d\cos\theta_-} =
+%\frac{1}{4} ( 1 - C \cos\theta_+ \cos\theta_- ) \,\, ,
+%\end{equation}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%where $\sigma$ denotes the cross section of the channel under
+%consideration and $C$ is a free parameter between -1 and 1 that
+%depends on the choice 
+%of the spin basis. 
+%%At tree level in the SM, where the spin analysing power of the charged
+%leptons is +1, $C=A$ represents the number of events where the $t$ and
+%$\bar{t}$ spins are parallel minus the number of events where they are
+%anti-parallel normalized by the total number of events:
+%\begin{equation}
+%    A = \frac{N_{like} - N_{unlike}}{N_{like} + N_{unlike}} =
+%     \frac{N(\uparrow \uparrow) + N(\downarrow \downarrow) - N(\uparrow \downarrow) - N(\downarrow \uparrow)}
+%     {N(\uparrow \uparrow) + N(\downarrow \downarrow) + N(\uparrow \downarrow) + N(\downarrow \uparrow)}.
+%    \label{eqno1}
+%\end{equation}
+%$\theta_+$ ($\theta_-$) describes the angle between 
+%the direction of flight of the lepton $\ell^+$ ($\ell'^-$) in the $t$
+%($\bar{t}$) rest frame and a reference direction $\bf \hat{a}$ ($\bf
+%\hat{b}$). The choice of spin basis determines the extent to which the
+%spins of the top quarks are correlated. 
+
+\subsection{Beamline}
+The \emph{beamline} basis takes the positive z axis direction~\footnote{The ATLAS coordinate system is right-handed with the
+pseudorapidity, $\eta$ , defined as $\eta = −\ln[\tan(\theta/2)]$, where the
+polar angle $\theta$ is measured with respect to the LHC beamline. The
+azimuthal angle, $\phi$, is measured with respect to the x-axis, which
+points towards the center of the LHC ring. The z-axis is parallel to
+the anti-clockwise beam viewed from above. Transverse momentum and
+energy are defined as $p_T =p \sin\theta$ and $E_T =E \sin\theta$, respectively.} as an approximation for the direction of one of the incoming protons. In this basis all information about the the spin correlation is lost. The expected value of the spin correlation strenght is $A = 0.03$. This is in contrast to the Tevatron collider, where the beamline basis can yield spin correlation values close to unity at leading order. In the following, we will not further investigate spin correlation in this basis. 
+
+\subsection{Helicity}
+The \emph{helicity} basis takes the direction of momentum of the top quark in the \ttbar rest frame, boosted into the top rest frame, as the spin analysing basis. This basis provides much better spin correlation strength, with $A=0.32$ at next to leading order~\cite{Bernreuther:2010ny}. 
+
+\subsection{Optimised}
+The \emph{optimised} basis is difficult to visualise conceptually but is derived mathematically from the spin density matrix of the \ttbar system. It can be thought of as interpolating between two other bases depending on the boost of the system. It is, by construction, the most sensitive variable that it is possible to construct at the LHC with a leading order spin correlation strength of $A=0.42$.
+
+Since the angles described above require boosts into the top and anti-top rest systems, repsectively, a full reconstruction of the \ttbar system is required. For some events it is not possible to obtain a real solution for a given set of input parameters, regardless of the individual reconstruction algorithm that is applied. For this reason the cosine variables lose statistics in an already statistically limited channel (typically on the order of 10-15\%). It is fortunate that at the LHC dilepton top pairs are in adbundance and so this does not become a limiting factor.  
+
+\section{Ratio Variables}
+
+\subsection{R Ratio}
+\subsection{S Ratio}
+
+%One of the crucial advantages to these variables is that they are sensitive to the new physics models developed to explain the Tevatron \ttbar\ forward backward assymetry (cite D0 and CDF). This feature may be enhanced by requiring a high \ttbar\ invariant mass, as this biases the ratio of gluon-gluon fusion to qqbar anihilation towards the qqbar, where most of these BSM models exist.

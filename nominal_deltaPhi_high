@@ -1,0 +1,852 @@
+
+CHANNEL = all
+SYSTEMATIC = Mass_177 type = 27
+  mean        = 0.0914732
+  sigma       = 0.000191724
+  mean_gauss  = 1.42444
+  sigma_gauss = 0.233494
+  mean        = -0.061451
+  sigma       = 2.02902e-05
+  mean_gauss  = 0.938669
+  sigma_gauss = 0.0302639
+
+****************************************
+Minimizer is Linear
+Chi2                      =      0.12491
+NDf                       =            2
+p0                        =      2.25076   +/-   16.7445     
+p1                        =   -0.0133451   +/-   0.0976881   
+
+****************************************
+Minimizer is Linear
+Chi2                      =  0.000720525
+NDf                       =            2
+p0                        =    -0.200697   +/-   6.61457     
+p1                        =   0.00851443   +/-   0.0385969   
+
+****************************************
+Minimizer is Linear
+Chi2                      =      1.14446
+NDf                       =            2
+p0                        =     -12.0236   +/-   14.0101     
+p1                        =    0.0854772   +/-   0.0819068   
+
+****************************************
+Minimizer is Linear
+Chi2                      =   0.00536325
+NDf                       =            2
+p0                        =  -0.00267782   +/-   5.23967     
+p1                        =   0.00802799   +/-   0.0305683   
+
+****************************************
+Minimizer is Linear
+Chi2                      =    0.0355731
+NDf                       =            2
+p0                        =       3.5506   +/-   2.11039     
+p1                        =   -0.0146613   +/-   0.0122817   
+
+****************************************
+Minimizer is Linear
+Chi2                      =     0.418646
+NDf                       =            2
+p0                        =      4.76627   +/-   0.857352    
+p1                        =   -0.0216427   +/-   0.00498709  
+
+****************************************
+Minimizer is Linear
+Chi2                      =     0.110727
+NDf                       =            2
+p0                        =      3.46763   +/-   1.49335     
+p1                        =   -0.0143786   +/-   0.0086885   
+
+****************************************
+Minimizer is Linear
+Chi2                      =     0.244289
+NDf                       =            2
+p0                        =      4.35979   +/-   0.729047    
+p1                        =   -0.0193653   +/-   0.00424278  
+ee line m   = -0.0133451 c = 2.25076
+emu line m  = 0.00851443 c = -0.200697
+mumu line m = 0.0854772 c = -12.0236
+all line m  = 0.00802799 c = -0.00267782
+ee line m xsec   = -0.0146613 c = 3.5506
+emu line m xsec  = -0.0216427 c = 4.76627
+mumu line m xsec = -0.0143786 c = 3.46763
+all line m xsec  = -0.0193653 c = 4.35979
+ee line m   = -0.0133451 c = 2.25076
+emu line m  = 0.00851443 c = -0.200697
+mumu line m = 0.0854772 c = -12.0236
+all line m  = 0.00802799 c = -0.00267782
+JWH 
+JWH **************************************
+JWH * VARIABLE : nominal_deltaPhi_high ee
+JWH * Fsm                        = 0.248828
+JWH * ttbar Normalisation        = 1.09344
+JWH --------------------------------------------
+JWH fsm_ee = 0.248828, ttbar xsec = 0.963439
+JWH fsm_emu = 1.23798, ttbar xsec = 1.10493
+JWH fsm_mumu = 2.12133, ttbar xsec = 1.1572
+JWH fsm_all = 1.33786, ttbar xsec = 1.09344
+JWH  
+JWH Upwards systematics 
+JWH channels_counter = +0
+JWH *  Stat            +0.6843
+JWH *  $JESUp_0$       -0.2652
+JWH *  $JESUp_1$       -0.0436
+JWH *  $JESUp_2$       -0.0259
+JWH *  $JESUp_3$       -0.0581
+JWH *  $JESUp_4$       +0.0040
+JWH *  $JESUp_5$       -0.0179
+JWH *  $JESUp_6$       +0.0578
+JWH *  $JESUp_7$       -0.0458
+JWH *  $JESUp_8$       +0.0000
+JWH *  $JESUp_9$       +0.3200
+JWH *  $JESUp_{10}$    +0.0331
+JWH *  $JESUp_{11}$    -0.0463
+JWH *  $JESUp_{12}$    -0.0391
+JWH *  $JESUp_{13}$    -0.0670
+JWH *  $JESUp_{14}$    -0.0781
+JWH *  $JESUp_{15}$    +0.0371
+JWH *  JVFUp           -0.3528
+JWH *  ElSmearUp       +0.0229
+JWH *  ElScaleUp       +0.4675
+JWH *  MuIDUp          +0.0000
+JWH *  MuMSUp          +1.5469
+JWH *  metpileupup     -0.0513
+JWH *  metsoftup       -0.0481
+JWH *  eeSFUp          -0.0003
+JWH *  mumuSFUp        +0.0000
+JWH *  emuSFUp         +0.0000
+JWH *  Template        +0.0000
+JWH *  fakes_mushape   +1.8638
+JWH *  fakes_normalisation_Up +0.0566
+JWH *  fakes_elreal_Up +0.2571
+JWH *  fakes_elfake_Up +0.8242
+JWH *  Luminosity_Up   +0.0076
+JWH *  JER             +0.1115
+JWH *  JRE             +0.0253
+JWH *  muscale_up      -0.3097
+JWH *  ISR_up          +0.0532
+JWH *  MuScaleOff      +0.0657
+JWH *  singletop_bk    +0.0005
+JWH *  ztautau_bk      +0.0211
+JWH *  WW_bk           +0.0044
+JWH *  WZ_bk           +0.0005
+JWH *  ZZ_bk           +0.0000
+JWH *  Stat            +0.6843
+JWH *  $JESDown_0$     -0.1221
+JWH *  $JESDown_1$     -0.0160
+JWH *  $JESDown_2$     -0.0990
+JWH *  $JESDown_3$     -0.0276
+JWH *  $JESDown_4$     -0.0027
+JWH *  $JESDown_5$     -0.0331
+JWH *  $JESDown_6$     +0.0036
+JWH *  $JESDown_7$     -0.1350
+JWH *  $JESDown_8$     -0.0017
+JWH *  $JESDown_9$     +0.0202
+JWH *  $JESDown_{10}$  -0.0096
+JWH *  $JESDown_{11}$  -0.0634
+JWH *  $JESDown_{12}$  -0.0077
+JWH *  $JESDown_{13}$  -0.0335
+JWH *  $JESDown_{14}$  -0.1017
+JWH *  $JESDown_{15}$  +0.0275
+JWH *  JVFDown         -0.3528
+JWH *  ElSmearDown     -0.0086
+JWH *  ElScaleDown     +0.0155
+JWH *  MuIDLow         +0.0000
+JWH *  MuMSLow         -0.0281
+JWH *  metpileupdown   -0.0444
+JWH *  metsoftdown     -0.0149
+JWH *  eeSFDown        -0.0226
+JWH *  mumuSFDown      +0.0000
+JWH *  emuSFDown       +0.0000
+JWH *  Template        +0.0000
+JWH *  fakes_mushape   +1.8638
+JWH *  fakes_normalisation_Down -0.0578
+JWH *  fakes_elreal_Down +0.2419
+JWH *  fakes_elfake_Down -0.0050
+JWH *  Luminosity_Down -0.0079
+JWH *  JER             +0.1115
+JWH *  JRE             +0.0253
+JWH *  muscale_down    +0.1110
+JWH *  ISR_up          +0.0532
+JWH *  MuScaleOff      +0.0657
+JWH *  singletop_bk    -0.0005
+JWH *  ztautau_bk      -0.0212
+JWH *  WW_bk           -0.0042
+JWH *  WZ_bk           -0.0005
+JWH *  ZZ_bk           -0.0000
+JWH 
+JWH Other systematics 
+JWH *  POWHEG_PYTHIA   +0.0757
+JWH *  POWHEG_HERWIG   +0.0622
+JWH *  MCATNLO_AF2     +0.1344
+JWH *  ALPGEN          +0.0992
+JWH 
+JWH --------------------------------------------
+JWH * Total Upwards Systematic   = +0.0000
+JWH * Total Downwards Systematic = +0.0000
+JWH **************************************
+JWH 
+JWH **************************************
+JWH * VARIABLE : nominal_deltaPhi_high mumu
+JWH * Fsm                        = +2.1213
+JWH * ttbar Normalisation        = +1.0934
+JWH --------------------------------------------
+JWH fsm_ee = +0.2488, ttbar xsec = +0.9634
+JWH fsm_emu = +1.2380, ttbar xsec = +1.1049
+JWH fsm_mumu = +2.1213, ttbar xsec = +1.1572
+JWH fsm_all = +1.3379, ttbar xsec = +1.0934
+JWH  
+JWH Upwards systematics 
+JWH channels_counter = +1
+JWH *  Stat            +0.5372
+JWH *  $JESUp_0$       +0.1322
+JWH *  $JESUp_1$       -0.0218
+JWH *  $JESUp_2$       +0.0562
+JWH *  $JESUp_3$       +0.0071
+JWH *  $JESUp_4$       -0.0162
+JWH *  $JESUp_5$       -0.0615
+JWH *  $JESUp_6$       +0.0281
+JWH *  $JESUp_7$       +0.0489
+JWH *  $JESUp_8$       -0.0000
+JWH *  $JESUp_9$       +0.1638
+JWH *  $JESUp_{10}$    +0.0260
+JWH *  $JESUp_{11}$    -0.0442
+JWH *  $JESUp_{12}$    -0.0809
+JWH *  $JESUp_{13}$    -0.0210
+JWH *  $JESUp_{14}$    +0.0143
+JWH *  $JESUp_{15}$    -0.0798
+JWH *  JVFUp           -0.1697
+JWH *  ElSmearUp       +0.0010
+JWH *  ElScaleUp       +0.1025
+JWH *  MuIDUp          -0.0051
+JWH *  MuMSUp          -1.0357
+JWH *  metpileupup     +0.0511
+JWH *  metsoftup       +0.0459
+JWH *  eeSFUp          -0.0000
+JWH *  mumuSFUp        -0.0062
+JWH *  emuSFUp         -0.0000
+JWH *  Template        +0.0000
+JWH *  fakes_mushape   +0.2163
+JWH *  fakes_normalisation_Up -0.0077
+JWH *  fakes_elreal_Up -0.0190
+JWH *  fakes_elfake_Up -0.0190
+JWH *  Luminosity_Up   +0.0022
+JWH *  JER             +0.0118
+JWH *  JRE             +0.0033
+JWH *  muscale_up      +0.0517
+JWH *  ISR_up          +0.1580
+JWH *  MuScaleOff      +0.0619
+JWH *  singletop_bk    -0.0024
+JWH *  ztautau_bk      +0.0158
+JWH *  WW_bk           -0.0009
+JWH *  WZ_bk           -0.0000
+JWH *  ZZ_bk           +0.0000
+JWH *  Stat            +0.5372
+JWH *  $JESDown_0$     +0.0801
+JWH *  $JESDown_1$     +0.0110
+JWH *  $JESDown_2$     -0.0477
+JWH *  $JESDown_3$     +0.0549
+JWH *  $JESDown_4$     -0.0346
+JWH *  $JESDown_5$     -0.0165
+JWH *  $JESDown_6$     +0.0227
+JWH *  $JESDown_7$     +0.0355
+JWH *  $JESDown_8$     -0.0000
+JWH *  $JESDown_9$     -0.0203
+JWH *  $JESDown_{10}$  +0.0826
+JWH *  $JESDown_{11}$  +0.0157
+JWH *  $JESDown_{12}$  +0.0292
+JWH *  $JESDown_{13}$  +0.0714
+JWH *  $JESDown_{14}$  +0.0134
+JWH *  $JESDown_{15}$  +0.0251
+JWH *  JVFDown         -0.1697
+JWH *  ElSmearDown     -0.0000
+JWH *  ElScaleDown     +0.0020
+JWH *  MuIDLow         -0.0133
+JWH *  MuMSLow         +0.0060
+JWH *  metpileupdown   +0.0110
+JWH *  metsoftdown     -0.0138
+JWH *  eeSFDown        -0.0000
+JWH *  mumuSFDown      +0.0028
+JWH *  emuSFDown       -0.0000
+JWH *  Template        +0.0000
+JWH *  fakes_mushape   +0.2163
+JWH *  fakes_normalisation_Down +0.0077
+JWH *  fakes_elreal_Down -0.0190
+JWH *  fakes_elfake_Down -0.0190
+JWH *  Luminosity_Down -0.0023
+JWH *  JER             +0.0118
+JWH *  JRE             +0.0033
+JWH *  muscale_down    +0.2450
+JWH *  ISR_up          +0.1580
+JWH *  MuScaleOff      +0.0619
+JWH *  singletop_bk    +0.0025
+JWH *  ztautau_bk      -0.0159
+JWH *  WW_bk           +0.0009
+JWH *  WZ_bk           +0.0000
+JWH *  ZZ_bk           -0.0001
+JWH 
+JWH Other systematics 
+JWH *  POWHEG_PYTHIA   +2.6176
+JWH *  POWHEG_HERWIG   +2.8502
+JWH *  MCATNLO_AF2     +2.3069
+JWH *  ALPGEN          +2.1341
+JWH 
+JWH --------------------------------------------
+JWH * Total Upwards Systematic   = +0.0000
+JWH * Total Downwards Systematic = +0.0000
+JWH **************************************
+JWH 
+JWH **************************************
+JWH * VARIABLE : nominal_deltaPhi_high emu
+JWH * Fsm                        = +1.2380
+JWH * ttbar Normalisation        = +1.0934
+JWH --------------------------------------------
+JWH fsm_ee = +0.2488, ttbar xsec = +0.9634
+JWH fsm_emu = +1.2380, ttbar xsec = +1.1049
+JWH fsm_mumu = +2.1213, ttbar xsec = +1.1572
+JWH fsm_all = +1.3379, ttbar xsec = +1.0934
+JWH  
+JWH Upwards systematics 
+JWH channels_counter = +2
+JWH *  Stat            +0.2718
+JWH *  $JESUp_0$       -0.0051
+JWH *  $JESUp_1$       -0.0171
+JWH *  $JESUp_2$       +0.0529
+JWH *  $JESUp_3$       +0.0434
+JWH *  $JESUp_4$       +0.0324
+JWH *  $JESUp_5$       +0.0081
+JWH *  $JESUp_6$       +0.0056
+JWH *  $JESUp_7$       -0.0265
+JWH *  $JESUp_8$       +0.0000
+JWH *  $JESUp_9$       +0.0714
+JWH *  $JESUp_{10}$    +0.0185
+JWH *  $JESUp_{11}$    -0.0018
+JWH *  $JESUp_{12}$    -0.0161
+JWH *  $JESUp_{13}$    +0.0098
+JWH *  $JESUp_{14}$    +0.0098
+JWH *  $JESUp_{15}$    +0.0337
+JWH *  JVFUp           -0.1242
+JWH *  ElSmearUp       +0.0206
+JWH *  ElScaleUp       -0.0574
+JWH *  MuIDUp          +0.0051
+JWH *  MuMSUp          -0.1701
+JWH *  metpileupup     +0.0263
+JWH *  metsoftup       +0.0155
+JWH *  eeSFUp          +0.0000
+JWH *  mumuSFUp        +0.0000
+JWH *  emuSFUp         -0.0078
+JWH *  Template        +0.0000
+JWH *  fakes_mushape   +0.0206
+JWH *  fakes_normalisation_Up -0.0082
+JWH *  fakes_elreal_Up -0.0114
+JWH *  fakes_elfake_Up -0.0425
+JWH *  Luminosity_Up   +0.0016
+JWH *  JER             +0.0535
+JWH *  JRE             +0.0173
+JWH *  muscale_up      -0.0361
+JWH *  ISR_up          +0.0615
+JWH *  MuScaleOff      +0.0172
+JWH *  singletop_bk    +0.0009
+JWH *  ztautau_bk      +0.0103
+JWH *  WW_bk           -0.0019
+JWH *  WZ_bk           +0.0005
+JWH *  ZZ_bk           -0.0001
+JWH *  Stat            +0.2718
+JWH *  $JESDown_0$     -0.0074
+JWH *  $JESDown_1$     +0.0102
+JWH *  $JESDown_2$     +0.0320
+JWH *  $JESDown_3$     +0.0195
+JWH *  $JESDown_4$     +0.0486
+JWH *  $JESDown_5$     +0.0152
+JWH *  $JESDown_6$     +0.0455
+JWH *  $JESDown_7$     -0.0018
+JWH *  $JESDown_8$     +0.0000
+JWH *  $JESDown_9$     +0.0329
+JWH *  $JESDown_{10}$  +0.0184
+JWH *  $JESDown_{11}$  +0.0383
+JWH *  $JESDown_{12}$  +0.0662
+JWH *  $JESDown_{13}$  +0.0049
+JWH *  $JESDown_{14}$  +0.0197
+JWH *  $JESDown_{15}$  +0.0127
+JWH *  JVFDown         -0.1242
+JWH *  ElSmearDown     +0.0019
+JWH *  ElScaleDown     +0.0137
+JWH *  MuIDLow         +0.0072
+JWH *  MuMSLow         +0.0078
+JWH *  metpileupdown   -0.0046
+JWH *  metsoftdown     -0.0165
+JWH *  eeSFDown        +0.0000
+JWH *  mumuSFDown      +0.0000
+JWH *  emuSFDown       -0.0012
+JWH *  Template        +0.0000
+JWH *  fakes_mushape   +0.0206
+JWH *  fakes_normalisation_Down +0.0082
+JWH *  fakes_elreal_Down -0.0068
+JWH *  fakes_elfake_Down +0.0065
+JWH *  Luminosity_Down -0.0017
+JWH *  JER             +0.0535
+JWH *  JRE             +0.0173
+JWH *  muscale_down    +0.0092
+JWH *  ISR_up          +0.0615
+JWH *  MuScaleOff      +0.0172
+JWH *  singletop_bk    -0.0009
+JWH *  ztautau_bk      -0.0103
+JWH *  WW_bk           +0.0018
+JWH *  WZ_bk           -0.0005
+JWH *  ZZ_bk           +0.0001
+JWH 
+JWH Other systematics 
+JWH *  POWHEG_PYTHIA   +1.4176
+JWH *  POWHEG_HERWIG   +1.3030
+JWH *  MCATNLO_AF2     +1.2696
+JWH *  ALPGEN          +0.9083
+JWH 
+JWH --------------------------------------------
+JWH * Total Upwards Systematic   = +0.0000
+JWH * Total Downwards Systematic = +0.0000
+JWH **************************************
+JWH 
+JWH **************************************
+JWH * VARIABLE : nominal_deltaPhi_high all
+JWH * Fsm                        = +1.3379
+JWH * ttbar Normalisation        = +1.0934
+JWH --------------------------------------------
+JWH fsm_ee = +0.2488, ttbar xsec = +0.9634
+JWH fsm_emu = +1.2380, ttbar xsec = +1.1049
+JWH fsm_mumu = +2.1213, ttbar xsec = +1.1572
+JWH fsm_all = +1.3379, ttbar xsec = +1.0934
+JWH  
+JWH Upwards systematics 
+JWH channels_counter = +3
+JWH *  Stat            +0.2189
+JWH *  $JESUp_0$       +0.0034
+JWH *  $JESUp_1$       -0.0219
+JWH *  $JESUp_2$       +0.0375
+JWH *  $JESUp_3$       +0.0203
+JWH *  $JESUp_4$       +0.0012
+JWH *  $JESUp_5$       -0.0148
+JWH *  $JESUp_6$       -0.0034
+JWH *  $JESUp_7$       -0.0226
+JWH *  $JESUp_8$       -0.0000
+JWH *  $JESUp_9$       +0.0552
+JWH *  $JESUp_{10}$    +0.0084
+JWH *  $JESUp_{11}$    -0.0294
+JWH *  $JESUp_{12}$    -0.0392
+JWH *  $JESUp_{13}$    +0.0067
+JWH *  $JESUp_{14}$    -0.0030
+JWH *  $JESUp_{15}$    +0.0101
+JWH *  JVFUp           -0.1507
+JWH *  ElSmearUp       +0.0142
+JWH *  ElScaleUp       -0.0830
+JWH *  MuIDUp          +0.0005
+JWH *  MuMSUp          -0.3767
+JWH *  metpileupup     +0.0224
+JWH *  metsoftup       +0.0170
+JWH *  eeSFUp          +0.0052
+JWH *  mumuSFUp        -0.0132
+JWH *  emuSFUp         +0.0075
+JWH *  Template        +0.0000
+JWH *  fakes_mushape   +0.5605
+JWH *  fakes_normalisation_Up +0.0007
+JWH *  fakes_elreal_Up +0.0172
+JWH *  fakes_elfake_Up +0.0685
+JWH *  Luminosity_Up   +0.0023
+JWH *  JER             +0.0182
+JWH *  JRE             +0.0089
+JWH *  muscale_up      -0.0286
+JWH *  ISR_up          +0.0832
+JWH *  MuScaleOff      +0.0182
+JWH *  singletop_bk    +0.0001
+JWH *  ztautau_bk      +0.0126
+JWH *  WW_bk           -0.0010
+JWH *  WZ_bk           +0.0004
+JWH *  ZZ_bk           -0.0000
+JWH *  Stat            +0.2189
+JWH *  $JESDown_0$     -0.0121
+JWH *  $JESDown_1$     +0.0015
+JWH *  $JESDown_2$     +0.0286
+JWH *  $JESDown_3$     +0.0042
+JWH *  $JESDown_4$     +0.0181
+JWH *  $JESDown_5$     +0.0085
+JWH *  $JESDown_6$     +0.0333
+JWH *  $JESDown_7$     -0.0118
+JWH *  $JESDown_8$     +0.0001
+JWH *  $JESDown_9$     +0.0131
+JWH *  $JESDown_{10}$  +0.0144
+JWH *  $JESDown_{11}$  +0.0158
+JWH *  $JESDown_{12}$  +0.0406
+JWH *  $JESDown_{13}$  +0.0085
+JWH *  $JESDown_{14}$  +0.0084
+JWH *  $JESDown_{15}$  -0.0017
+JWH *  JVFDown         -0.1507
+JWH *  ElSmearDown     -0.0022
+JWH *  ElScaleDown     +0.0104
+JWH *  MuIDLow         +0.0005
+JWH *  MuMSLow         +0.0055
+JWH *  metpileupdown   -0.0079
+JWH *  metsoftdown     -0.0254
+JWH *  eeSFDown        -0.0076
+JWH *  mumuSFDown      +0.0140
+JWH *  emuSFDown       -0.0159
+JWH *  Template        +0.0000
+JWH *  fakes_mushape   +0.5605
+JWH *  fakes_normalisation_Down -0.0007
+JWH *  fakes_elreal_Down +0.0138
+JWH *  fakes_elfake_Down -0.0043
+JWH *  Luminosity_Down -0.0024
+JWH *  JER             +0.0182
+JWH *  JRE             +0.0089
+JWH *  muscale_down    +0.0957
+JWH *  ISR_up          +0.0832
+JWH *  MuScaleOff      +0.0182
+JWH *  singletop_bk    -0.0002
+JWH *  ztautau_bk      -0.0127
+JWH *  WW_bk           +0.0009
+JWH *  WZ_bk           -0.0004
+JWH *  ZZ_bk           +0.0000
+JWH 
+JWH Other systematics 
+JWH *  POWHEG_PYTHIA   +1.4957
+JWH *  POWHEG_HERWIG   +1.4541
+JWH *  MCATNLO_AF2     +1.3781
+JWH *  ALPGEN          +1.0705
+JWH 
+JWH --------------------------------------------
+JWH * Total Upwards Systematic   = +0.0000
+JWH * Total Downwards Systematic = +0.0000
+JWH **************************************
+\begin{table}[htbp]
+\scriptsize
+  \begin{center} 
+  \begin{tabular}{|c|c|c|c|c|}
+  \hline
+Systematic                            &  ee channel&  mumu channel&  emu channel&  combinaton\\
+  \hline
+Data Statistics                       &+0.684              & +0.537              & +0.272              & +0.219             \\
+\hline
+\textbf{Stat Total}                   &+0.000              & +0.000              & +0.000              & +0.000             \\
+\hline
+JES (In-situ: NP1)                    &-0.265   / -0.122   & +0.132   / +0.080   & -0.265   / -0.122   & -0.265   / -0.122  \\
+JES (In-situ: NP2)                    &-0.044   / -0.016   & -0.022   / +0.011   & -0.044   / -0.016   & -0.044   / -0.016  \\
+JES (In-situ: NP3)                    &-0.026   / -0.099   & +0.056   / -0.048   & -0.026   / -0.099   & -0.026   / -0.099  \\
+JES (In-situ: NP4)                    &-0.058   / -0.028   & +0.007   / +0.055   & -0.058   / -0.028   & -0.058   / -0.028  \\
+JES (In-situ: NP5)                    &+0.004   / -0.003   & -0.016   / -0.035   & +0.004   / -0.003   & +0.004   / -0.003  \\
+JES (In-situ: NP6)                    &-0.018   / -0.033   & -0.062   / -0.016   & -0.018   / -0.033   & -0.018   / -0.033  \\
+JES (#eta-inter.: stat)               &+0.058   / +0.004   & +0.028   / +0.023   & +0.058   / +0.004   & +0.058   / +0.004  \\
+JES (#eta-inter.: MC)                 &-0.046   / -0.135   & +0.049   / +0.036   & -0.046   / -0.135   & -0.046   / -0.135  \\
+JES (High pT} extr.)                  &+0.000   / -0.002   & -0.000   / -0.000   & +0.000   / -0.002   & +0.000   / -0.002  \\
+JES (Non-closure)                     &+0.320   / +0.020   & +0.164   / -0.020   & +0.320   / +0.020   & +0.320   / +0.020  \\
+JES (Pile-up: mu)                     &+0.033   / -0.010   & +0.026   / +0.083   & +0.033   / -0.010   & +0.033   / -0.010  \\
+JES (Pile-up: N_{PV}                  &-0.046   / -0.063   & -0.044   / +0.016   & -0.046   / -0.063   & -0.046   / -0.063  \\
+JES (Close-by)                        &-0.039   / -0.008   & -0.081   / +0.029   & -0.039   / -0.008   & -0.039   / -0.008  \\
+JES (Flavour Comp. - ttbar)           &-0.067   / -0.033   & -0.021   / +0.071   & -0.067   / -0.033   & -0.067   / -0.033  \\
+JES (Flavour Comp. Other              &-0.078   / -0.102   & +0.014   / +0.013   & -0.078   / -0.102   & -0.078   / -0.102  \\
+JES (BJES)                            &+0.037   / +0.028   & -0.080   / +0.025   & +0.037   / +0.028   & +0.037   / +0.028  \\
+\hline
+\textbf{JES Total}                    &+0.449   / +0.249   & +0.267   / +0.171   & +0.449   / +0.249   & +0.449   / +0.249  \\
+\hline
+Jet Reconstruction Efficiency         &+0.025              & +0.003              & +0.017              & +0.009             \\
+Jet Energy Resolution                 &+0.112              & +0.012              & +0.054              & +0.018             \\
+Jet Vertex Fraction                   &-0.353              & -0.170              & -0.124              & -0.151             \\
+\hline
+\textbf{Jet Total}                    &+0.371              & +0.170              & +0.136              & +0.152             \\
+\hline
+Electron Energy Smearing              &+0.023   / -0.009   & +0.001   / -0.000   & +0.021   / +0.002   & +0.014   / -0.002  \\
+Electron Energy Scale                 &+0.467   / +0.015   & +0.103   / +0.002   & -0.057   / +0.014   & -0.083   / +0.010  \\
+Muon Momentum Scale                   &+0.066              & +0.062              & +0.017              & +0.018             \\
+MC Scale Factor                       &-0.000   / -0.023   & -0.006   / +0.003   & -0.008   / -0.001   & +0.010   / +0.023  \\
+Muon ID                               &+0.788              & +0.521              & +0.089              & +0.191             \\
+\hline
+\textbf{Lepton Total}                 &+0.918   / +0.791   & +0.534   / +0.525   & +0.109   / +0.092   & +0.210   / +0.194  \\
+\hline
+Muon Fake Shape                       &+0.000              & +0.216              & +0.021              & +0.561             \\
+Electron eff Real                     &+0.257   / +0.242   & +0.000              & -0.011   / -0.007   & +0.017   / +0.014  \\
+Electron eff Fake                     &+0.824   / -0.005   & +0.000              & -0.042   / +0.007   & +0.069   / -0.004  \\
+Fake Normalisation                    &+0.057   / -0.058   & -0.008   / +0.008   & -0.008   / +0.008   & +0.001   / -0.001  \\
+\hline
+\textbf{Fake Total}                   &+0.865   / +0.249   & +0.216   / +0.216   & +0.049   / +0.024   & +0.565   / +0.561  \\
+\hline
+MET pileup                            &-0.051   / -0.044   & +0.051   / +0.011   & +0.026   / -0.005   & +0.022   / -0.008  \\
+MET soft cell out                     &-0.048   / -0.015   & +0.046   / -0.014   & +0.015   / -0.016   & +0.017   / -0.025  \\
+\hline
+\textbf{MET Total}                    &+0.070   / +0.047   & +0.069   / +0.018   & +0.031   / +0.017   & +0.028   / +0.027  \\
+\hline
+Single Top normalisation              &+0.000   / -0.000   & -0.002   / +0.002   & +0.001   / -0.001   & +0.000   / -0.000  \\
+Diboson normalisation (WW)            &+0.004   / -0.004   & -0.001   / +0.001   & -0.002   / +0.002   & -0.001   / +0.001  \\
+Diboson normalisation (WZ)            &+0.001   / -0.001   & -0.000   / +0.000   & +0.001   / -0.001   & +0.000   / -0.000  \\
+Diboson normalisation (ZZ)            &+0.000   / -0.000   & +0.000   / -0.000   & -0.000   / +0.000   & -0.000   / +0.000  \\
+Ztautau normalisation                 &+0.021   / -0.021   & +0.016   / -0.016   & +0.010   / -0.010   & +0.013   / -0.013  \\
+Template Statistics                   &+0.000              & +0.000              & +0.000              & +0.000             \\
+Drell-Yan estimate                    &+0.000              & +0.000              & +0.000              & +0.000             \\
+\hline
+\textbf{Background Total}             &+0.022   / +0.022   & +0.016   / +0.016   & +0.010   / +0.011   & +0.013   / +0.013  \\
+\hline
+Renorm/Fact scales                    &-0.310   / +0.111   & +0.052   / +0.245   & -0.036   / +0.009   & -0.029   / +0.096  \\
+ISR/FSR                               &+0.053   / +0.000   & +0.158   / +0.000   & +0.062   / +0.000   & +0.083   / +0.000  \\
+Luminosity                            &+0.008   / -0.008   & +0.002   / -0.002   & +0.002   / -0.002   & +0.002   / -0.002  \\
+Parton Shower and Fragmentation       &+0.014              & +0.233              & +0.115              & +0.042             \\
+NLO Generator                         &+0.072              & +0.543              & +0.033              & +0.076             \\
+Top Mass                              &-0.013              & +0.085              & +0.009              & -0.013             \\
+PDF Uncertainty                       &+0.000              & +0.000              & +0.000              & +0.000             \\
+\hline
+\textbf{Generator Total}              &+0.310   / +0.112   & +0.100   / +0.259   & +0.037   / +0.013   & +0.032   / +0.097  \\
+\hline
+\hline
+Total Systematics                     &+1.426   / +0.950   & +0.669   / +0.669   & +0.486   / +0.300   & +0.768   / +0.669  \\
+Statistics                            &+0.000              & +0.000              & +0.000              & +0.000             \\
+\hline
+  \end{tabular}
+  \end{center} 
+  \label{tab:fsm_nominal_deltaPhi_high}
+  \caption{This is a test caption}
+\end{table}
+ 
+\begin{table}[htbp]
+\scriptsize
+  \begin{center} 
+  \begin{tabular}{|c|c|c|c|c|}
+  \hline
+\textbf{Stat Total}                   &+0.000              & +0.000              & +0.000              & +0.000             \\
+\textbf{JES Total}                    &+0.449   / +0.249   & +0.267   / +0.171   & +0.449   / +0.249   & +0.449   / +0.249  \\
+\textbf{Jet Total}                    &+0.371              & +0.170              & +0.136              & +0.152             \\
+\textbf{Lepton Total}                 &+0.918   / +0.791   & +0.534   / +0.525   & +0.109   / +0.092   & +0.210   / +0.194  \\
+\textbf{Fake Total}                   &+0.865   / +0.249   & +0.216   / +0.216   & +0.049   / +0.024   & +0.565   / +0.561  \\
+\textbf{MET Total}                    &+0.070   / +0.047   & +0.069   / +0.018   & +0.031   / +0.017   & +0.028   / +0.027  \\
+\textbf{Background Total}             &+0.022   / +0.022   & +0.016   / +0.016   & +0.010   / +0.011   & +0.013   / +0.013  \\
+\textbf{Generator Total}              &+0.310   / +0.112   & +0.100   / +0.259   & +0.037   / +0.013   & +0.032   / +0.097  \\
+  \hline
+  \hline
+Total Systematics                     &+1.426   / +0.950   & +0.669   / +0.669   & +0.486   / +0.300   & +0.768   / +0.669  \\
+Statistics                            &+0.000              & +0.000              & +0.000              & +0.000             \\
+  \hline
+  \end{tabular}
+  \end{center} 
+  \label{tab:fsm_nominal_deltaPhi_high}
+  \caption{This is a test caption}
+\end{table}
+\begin{table}[htbp]
+\scriptsize
+  \begin{center} 
+  \begin{tabular}{|c|c|c|c|c|}
+  \hline
+Systematic                            &  ee channel&  mumu channel&  emu channel&  combinaton\\
+  \hline
+Data Statistics                       &+0.098              & +0.067              & +0.037              & +0.032             \\
+\hline
+\textbf{Stat Total}                   &+0.000              & +0.000              & +0.000              & +0.000             \\
+\hline
+JES (In-situ: NP1)                    &-0.011   / -0.018   & +0.004   / +0.014   & -0.011   / -0.018   & -0.011   / -0.018  \\
+JES (In-situ: NP2)                    &+0.012   / -0.010   & +0.007   / +0.005   & +0.012   / -0.010   & +0.012   / -0.010  \\
+JES (In-situ: NP3)                    &+0.003   / -0.001   & +0.017   / +0.005   & +0.003   / -0.001   & +0.003   / -0.001  \\
+JES (In-situ: NP4)                    &-0.003   / -0.007   & +0.021   / +0.023   & -0.003   / -0.007   & -0.003   / -0.007  \\
+JES (In-situ: NP5)                    &-0.002   / +0.001   & +0.005   / +0.014   & -0.002   / +0.001   & -0.002   / +0.001  \\
+JES (In-situ: NP6)                    &-0.003   / -0.002   & +0.002   / +0.005   & -0.003   / -0.002   & -0.003   / -0.002  \\
+JES (#eta-inter.: stat)               &+0.008   / -0.002   & +0.018   / +0.008   & +0.008   / -0.002   & +0.008   / -0.002  \\
+JES (#eta-inter.: MC)                 &-0.005   / -0.018   & +0.022   / +0.008   & -0.005   / -0.018   & -0.005   / -0.018  \\
+JES (High pT} extr.)                  &-0.000   / +0.000   & -0.000   / -0.000   & -0.000   / +0.000   & -0.000   / +0.000  \\
+JES (Non-closure)                     &-0.015   / -0.002   & +0.079   / +0.004   & -0.015   / -0.002   & -0.015   / -0.002  \\
+JES (Pile-up: mu)                     &+0.001   / +0.001   & +0.012   / +0.017   & +0.001   / +0.001   & +0.001   / +0.001  \\
+JES (Pile-up: N_{PV}                  &+0.002   / -0.013   & +0.013   / +0.011   & +0.002   / -0.013   & +0.002   / -0.013  \\
+JES (Close-by)                        &+0.004   / -0.011   & -0.004   / -0.004   & +0.004   / -0.011   & +0.004   / -0.011  \\
+JES (Flavour Comp. - ttbar)           &-0.001   / -0.010   & +0.001   / +0.011   & -0.001   / -0.010   & -0.001   / -0.010  \\
+JES (Flavour Comp. Other              &+0.003   / -0.010   & +0.007   / +0.011   & +0.003   / -0.010   & +0.003   / -0.010  \\
+JES (BJES)                            &+0.012   / -0.009   & +0.011   / +0.002   & +0.012   / -0.009   & +0.012   / -0.009  \\
+\hline
+\textbf{JES Total}                    &+0.028   / +0.037   & +0.091   / +0.042   & +0.028   / +0.037   & +0.028   / +0.037  \\
+\hline
+Jet Reconstruction Efficiency         &+0.020              & +0.024              & +0.023              & +0.023             \\
+Jet Energy Resolution                 &+0.010              & +0.028              & +0.000              & +0.003             \\
+Jet Vertex Fraction                   &-0.106              & -0.110              & -0.090              & -0.096             \\
+\hline
+\textbf{Jet Total}                    &+0.108              & +0.116              & +0.093              & +0.099             \\
+\hline
+Electron Energy Smearing              &+0.009   / +0.000   & +0.000   / -0.000   & +0.002   / +0.000   & +0.001   / -0.000  \\
+Electron Energy Scale                 &-0.027   / -0.002   & +0.021   / +0.001   & +0.001   / -0.001   & +0.002   / -0.001  \\
+Muon Momentum Scale                   &+0.002              & +0.010              & +0.001              & +0.002             \\
+MC Scale Factor                       &+0.045   / -0.054   & +0.022   / -0.027   & +0.033   / -0.039   & +0.000             \\
+Muon ID                               &+0.003              & +0.120              & +0.003              & +0.012             \\
+\hline
+\textbf{Lepton Total}                 &+0.053   / +0.054   & +0.124   / +0.123   & +0.033   / +0.039   & +0.012   / +0.012  \\
+\hline
+Muon Fake Shape                       &+0.000              & +0.031              & +0.011              & +0.097             \\
+Electron eff Real                     &+0.024   / +0.008   & +0.000              & +0.007   / -0.004   & +0.008   / -0.002  \\
+Electron eff Fake                     &+0.106   / -0.017   & +0.000              & +0.005   / -0.002   & +0.016   / -0.003  \\
+Fake Normalisation                    &+0.019   / -0.019   & +0.002   / -0.002   & +0.004   / -0.004   & +0.006   / -0.006  \\
+\hline
+\textbf{Fake Total}                   &+0.111   / +0.027   & +0.031   / +0.031   & +0.015   / +0.013   & +0.099   / +0.097  \\
+\hline
+MET pileup                            &+0.001   / -0.001   & +0.002   / -0.005   & +0.002   / -0.000   & +0.002   / -0.001  \\
+MET soft cell out                     &-0.001   / -0.004   & +0.015   / +0.003   & +0.002   / -0.000   & +0.004   / -0.000  \\
+\hline
+\textbf{MET Total}                    &+0.001   / +0.004   & +0.016   / +0.005   & +0.003   / +0.000   & +0.004   / +0.001  \\
+\hline
+Single Top normalisation              &+0.003   / -0.003   & +0.002   / -0.002   & +0.003   / -0.003   & +0.003   / -0.003  \\
+Diboson normalisation (WW)            &+0.003   / -0.003   & +0.003   / -0.003   & +0.003   / -0.003   & +0.003   / -0.003  \\
+Diboson normalisation (WZ)            &+0.000   / -0.000   & +0.000   / -0.000   & +0.000   / -0.000   & +0.000   / -0.000  \\
+Diboson normalisation (ZZ)            &+0.000   / -0.000   & +0.000   / -0.000   & +0.000   / -0.000   & +0.000   / -0.000  \\
+Ztautau normalisation                 &+0.002   / -0.002   & +0.004   / -0.004   & +0.003   / -0.003   & +0.003   / -0.003  \\
+Template Statistics                   &+0.000              & +0.000              & +0.000              & +0.000             \\
+Drell-Yan estimate                    &+0.000              & +0.000              & +0.000              & +0.000             \\
+\hline
+\textbf{Background Total}             &+0.005   / +0.005   & +0.005   / +0.005   & +0.005   / +0.005   & +0.005   / +0.005  \\
+\hline
+Renorm/Fact scales                    &+0.016   / +0.048   & +0.011   / +0.014   & +0.044   / +0.038   & +0.032   / +0.033  \\
+ISR/FSR                               &+0.004   / +0.000   & +0.129   / +0.000   & +0.104   / +0.000   & +0.094   / +0.000  \\
+Luminosity                            &+0.021   / -0.021   & +0.020   / -0.020   & +0.020   / -0.020   & +0.020   / -0.020  \\
+Parton Shower and Fragmentation       &+0.064              & +0.047              & +0.054              & +0.054             \\
+NLO Generator                         &+0.049              & +0.036              & +0.051              & +0.049             \\
+Top Mass                              &-0.013              & +0.085              & +0.009              & -0.013             \\
+PDF Uncertainty                       &+0.000              & +0.000              & +0.000              & +0.000             \\
+\hline
+\textbf{Generator Total}              &+0.029   / +0.054   & +0.088   / +0.089   & +0.049   / +0.044   & +0.040   / +0.041  \\
+\hline
+\hline
+Total Systematics                     &+0.169   / +0.140   & +0.215   / +0.198   & +0.115   / +0.117   & +0.149   / +0.150  \\
+Statistics                            &+0.000              & +0.000              & +0.000              & +0.000             \\
+\hline
+  \end{tabular}
+  \end{center} 
+  \label{tab:xsec_nominal_deltaPhi_high}
+  \caption{This is a test caption}
+\end{table}
+ 
+\begin{table}[htbp]
+\scriptsize
+  \begin{center} 
+  \begin{tabular}{|c|c|c|c|c|}
+  \hline
+\textbf{Stat Total}                   &+0.000              & +0.000              & +0.000              & +0.000             \\
+\textbf{JES Total}                    &+0.028   / +0.037   & +0.091   / +0.042   & +0.028   / +0.037   & +0.028   / +0.037  \\
+\textbf{Jet Total}                    &+0.108              & +0.116              & +0.093              & +0.099             \\
+\textbf{Lepton Total}                 &+0.053   / +0.054   & +0.124   / +0.123   & +0.033   / +0.039   & +0.012   / +0.012  \\
+\textbf{Fake Total}                   &+0.111   / +0.027   & +0.031   / +0.031   & +0.015   / +0.013   & +0.099   / +0.097  \\
+\textbf{MET Total}                    &+0.001   / +0.004   & +0.016   / +0.005   & +0.003   / +0.000   & +0.004   / +0.001  \\
+\textbf{Background Total}             &+0.005   / +0.005   & +0.005   / +0.005   & +0.005   / +0.005   & +0.005   / +0.005  \\
+\textbf{Generator Total}              &+0.029   / +0.054   & +0.088   / +0.089   & +0.049   / +0.044   & +0.040   / +0.041  \\
+  \hline
+  \hline
+Total Systematics                     &+0.169   / +0.140   & +0.215   / +0.198   & +0.115   / +0.117   & +0.149   / +0.150  \\
+Statistics                            &+0.000              & +0.000              & +0.000              & +0.000             \\
+  \hline
+  \end{tabular}
+  \end{center} 
+  \label{tab:xsec_nominal_deltaPhi_high}
+  \caption{This is a test caption}
+\end{table}
+JWH\begin{table}[htbp]
+JWH  \begin{center}
+JWH  \begin{tabular}{|c|c|c|c|c|}
+JWH  \hline
+JWH  JWH \textbf{nominal_deltaPhi_high}    &  ee &mumu &emu&all\\
+JWH  \hline
+JWH  $JESUp_0$                             &  -0.265   / -0.122   & +0.132   / +0.080   & -0.005   / -0.007   & +0.003   / -0.012   \\
+JWH  $JESUp_1$                             &  -0.044   / -0.016   & -0.022   / +0.011   & -0.017   / +0.010   & -0.022   / +0.002   \\
+JWH  $JESUp_2$                             &  -0.026   / -0.099   & +0.056   / -0.048   & +0.053   / +0.032   & +0.038   / +0.029   \\
+JWH  $JESUp_3$                             &  -0.058   / -0.028   & +0.007   / +0.055   & +0.043   / +0.020   & +0.020   / +0.004   \\
+JWH  $JESUp_4$                             &  +0.004   / -0.003   & -0.016   / -0.035   & +0.032   / +0.049   & +0.001   / +0.018   \\
+JWH  $JESUp_5$                             &  -0.018   / -0.033   & -0.062   / -0.016   & +0.008   / +0.015   & -0.015   / +0.008   \\
+JWH  $JESUp_6$                             &  +0.058   / +0.004   & +0.028   / +0.023   & +0.006   / +0.046   & -0.003   / +0.033   \\
+JWH  $JESUp_7$                             &  -0.046   / -0.135   & +0.049   / +0.036   & -0.027   / -0.002   & -0.023   / -0.012   \\
+JWH  $JESUp_8$                             &  +0.000   / -0.002   & -0.000   / -0.000   & +0.000   / +0.000   & -0.000   / +0.000   \\
+JWH  $JESUp_9$                             &  +0.320   / +0.020   & +0.164   / -0.020   & +0.071   / +0.033   & +0.055   / +0.013   \\
+JWH  $JESUp_{10}$                          &  +0.033   / -0.010   & +0.026   / +0.083   & +0.019   / +0.018   & +0.008   / +0.014   \\
+JWH  $JESUp_{11}$                          &  -0.046   / -0.063   & -0.044   / +0.016   & -0.002   / +0.038   & -0.029   / +0.016   \\
+JWH  $JESUp_{12}$                          &  -0.039   / -0.008   & -0.081   / +0.029   & -0.016   / +0.066   & -0.039   / +0.041   \\
+JWH  $JESUp_{13}$                          &  -0.067   / -0.033   & -0.021   / +0.071   & +0.010   / +0.005   & +0.007   / +0.008   \\
+JWH  $JESUp_{14}$                          &  -0.078   / -0.102   & +0.014   / +0.013   & +0.010   / +0.020   & -0.003   / +0.008   \\
+JWH  $JESUp_{15}$                          &  +0.037   / +0.028   & -0.080   / +0.025   & +0.034   / +0.013   & +0.010   / -0.002   \\
+JWH  \hline
+JWH  JES Total                             &  +0.449   / -0.249   & +0.267   / -0.171   & +0.118   / -0.119   & +0.093   / -0.071   \\
+JWH  Jet Vertex Fraction                   &  -0.353   / -0.353   & -0.170   / -0.170   & -0.124   / -0.124   & -0.151   / -0.151   \\
+JWH  Jet Energy Resolution                 &  +0.112   / +0.112   & +0.012   / +0.012   & +0.054   / +0.054   & +0.018   / +0.018   \\
+JWH  Jet Reconstruction Eff                &  +0.025   / +0.025   & +0.003   / +0.003   & +0.017   / +0.017   & +0.009   / +0.009   \\
+JWH  \hline
+JWH  \textbf{JET Total}                    &  +0.582   / -0.447   & +0.317   / -0.241   & +0.180   / -0.181   & +0.178   / -0.168   \\
+JWH  \hline
+JWH  Electron Energy Smearing              &  +0.023   / -0.009   & +0.001   / -0.000   & +0.021   / +0.002   & +0.014   / -0.002   \\
+JWH  Electron Energy Scale                 &  +0.467   / +0.015   & +0.103   / +0.002   & -0.057   / +0.014   & -0.083   / +0.010   \\
+JWH  Scale Factor (ee)                     &  -0.000   / -0.023   & +0.000   / +0.000   & +0.000   / +0.000   & +0.005   / -0.008   \\
+JWH  Scale Factor (mumu)                   &  +0.000   / +0.000   & -0.006   / +0.003   & +0.000   / +0.000   & -0.013   / +0.014   \\
+JWH  Scale Factor (emu)                    &  +0.000   / +0.000   & +0.000   / +0.000   & -0.008   / -0.001   & +0.008   / -0.016   \\
+JWH  Muon Momentum Scale offset            &  +0.066   / +0.066   & +0.062   / +0.062   & +0.017   / +0.017   & +0.018   / +0.018   \\
+JWH  Muon Momentum Smearing                &  +0.788   / +0.788   & +0.521   / +0.521   & +0.089   / +0.089   & +0.191   / +0.191   \\
+JWH  \hline
+JWH  \textbf{LEPTON Total}                 &  +0.918   / -0.791   & +0.534   / -0.525   & +0.109   / -0.092   & +0.210   / -0.194   \\
+JWH  \hline
+JWH  Muon Fake Shape                       &  +0.000   / +0.000   & +0.216   / +0.216   & +0.021   / +0.021   & +0.561   / +0.561   \\
+JWH  Fake Normalisation                    &  +0.057   / -0.058   & -0.008   / +0.008   & -0.008   / +0.008   & +0.001   / -0.001   \\
+JWH  Electron eff Real                     &  +0.257   / +0.242   & +0.000   / +0.000   & -0.011   / -0.007   & +0.017   / +0.014   \\
+JWH  Electron eff Fake                     &  +0.824   / -0.005   & +0.000   / +0.000   & -0.042   / +0.007   & +0.069   / -0.004   \\
+JWH  \hline
+JWH  \textbf{Fake Total}                   &  +0.865   / -0.249   & +0.216   / -0.216   & +0.049   / -0.024   & +0.565   / -0.561   \\
+JWH  \hline
+JWH  MET pileup                            &  -0.051   / -0.044   & +0.051   / +0.011   & +0.026   / -0.005   & +0.022   / -0.008   \\
+JWH  MET soft cell out                     &  -0.048   / -0.015   & +0.046   / -0.014   & +0.015   / -0.016   & +0.017   / -0.025   \\
+JWH  \hline
+JWH  \textbf{MET Total}                    &  +0.070   / -0.047   & +0.069   / -0.018   & +0.031   / -0.017   & +0.028   / -0.027   \\
+JWH  \hline
+JWH  Single Top normalisation              &  +0.000   / -0.000   & -0.002   / +0.002   & +0.001   / -0.001   & +0.000   / -0.000   \\
+JWH  Ztautau normalisation                 &  +0.021   / -0.021   & +0.016   / -0.016   & +0.010   / -0.010   & +0.013   / -0.013   \\
+JWH  Diboson normalisation (WW)            &  +0.004   / -0.004   & -0.001   / +0.001   & -0.002   / +0.002   & -0.001   / +0.001   \\
+JWH  Diboson normalisation (WZ)            &  +0.001   / -0.001   & -0.000   / +0.000   & +0.001   / -0.001   & +0.000   / -0.000   \\
+JWH  Diboson normalisation (ZZ)            &  +0.000   / -0.000   & +0.000   / -0.000   & -0.000   / +0.000   & -0.000   / +0.000   \\
+JWH  \hline
+JWH  \textbf{MC Background Total}          &  +0.022   / -0.022   & +0.016   / -0.016   & +0.010   / -0.011   & +0.013   / -0.013   \\
+JWH  \hline
+JWH  Template Statistics                   &  +0.000   / +0.000   & +0.000   / +0.000   & +0.000   / +0.000   & +0.000   / +0.000   \\
+JWH  Luminosity                            &  +0.008   / -0.008   & +0.002   / -0.002   & +0.002   / -0.002   & +0.002   / -0.002   \\
+JWH  Renorm/Fact scales                    &  -0.310   / +0.111   & +0.052   / +0.245   & -0.036   / +0.009   & -0.029   / +0.096   \\
+JWH  ISR/FSR                               &  +0.053   / +0.014   & +0.158   / +0.233   & +0.062   / +0.115   & +0.083   / +0.042   \\
+JWH  PS and Fragmentation                  &  +0.014   / +0.072   & +0.233   / +0.543   & +0.115   / +0.033   & +0.042   / +0.076   \\
+JWH  NLO Generator                         &  +0.072   / +0.000   & +0.543   / +0.000   & +0.033   / +0.000   & +0.076   / +nan     \\
+JWH  \hline
+JWH  \textbf{Generator Total}              &  +0.323   / -0.133   & +0.614   / -0.640   & +0.139   / -0.120   & +0.124   / +nan     \\
+JWH  \hline
+JWH  \hline
+JWH  \textbf{Total Uncertainty (syst)}     &  +1.427   / -0.951   & +0.900   / -0.889   & +0.258   / -0.237   & +0.641   / +nan     \\
+JWH  \textbf{Total Uncertainty (stat)}     &  +0.684   / -0.684   & +0.537   / -0.537   & +0.272   / -0.272   & +0.219   / -0.219   \\
+JWH  \hline
+JWH  \end{tabular} 
+JWH 
+JWH  \end{center}
+JWH\end{table}
+JWH 
+JWH fsm_ee = +0.249, ttbar xsec = +0.963
+JWH fsm_mumu = +2.121, ttbar xsec = +1.157
+JWH fsm_emu = +1.238, ttbar xsec = +1.105
+JWH fsm_all = +1.338, ttbar xsec = +1.093
+ 
+dil_nominal_deltaPhi_high_ee	 =["nominal_deltaPhi_high #bf{ee}", +0.249, +0.684, +1.427, +0.951]
+dil_nominal_deltaPhi_high_mumu	 =["nominal_deltaPhi_high #bf{#mu#mu}", +2.121, +0.537, +0.900, +0.889]
+dil_nominal_deltaPhi_high_emu	 =["nominal_deltaPhi_high #bf{e#mu}", +1.238, +0.272, +0.258, +0.237]
+dil_nominal_deltaPhi_high_all	 =["nominal_deltaPhi_high #bf{all}", +1.338, +0.219, +0.641, +nan]
+JWH 
+JWHBeginning LaTeX output 
+JWH 
+JWH\begin{table}[htbp]
+JWH  \begin{center}
+JWH  \begin{tabular}{|c|c|c|c|c|}
+JWH  \hline
+JWH  JWH \textbf{nominal_deltaPhi_high}    &  ee &mumu &emu&all\\
+JWH  \hline
+JWH  \hline
+JWH  \textbf{LEPTON Total}                 &  +0.918   / -0.791   & +0.534   / -0.525   & +0.109   / -0.092   & +0.210   / -0.194   \\
+JWH  \hline
+JWH  \textbf{JET Total}                    &  +0.582   / -0.447   & +0.317   / -0.241   & +0.180   / -0.181   & +0.178   / -0.168   \\
+JWH  \hline
+JWH  \textbf{MET Total}                    &  +0.070   / -0.047   & +0.069   / -0.018   & +0.031   / -0.017   & +0.028   / -0.027   \\
+JWH  \hline
+JWH  \textbf{Background Total}             &  +0.865   / -0.250   & +0.217   / -0.217   & +0.050   / -0.026   & +0.565   / -0.561   \\
+JWH  \hline
+JWH  \textbf{Generator Total}              &  +0.323   / -0.133   & +0.614   / -0.640   & +0.139   / -0.120   & +0.124   / +nan     \\
+JWH  \hline
+JWH  \hline
+JWH  \textbf{Total Uncertainty (syst)}     &  +1.427   / -0.951   & +0.900   / -0.889   & +0.258   / -0.237   & +0.641   / +nan     \\
+JWH  \textbf{Total Uncertainty (stat)}     &  +0.684   / -0.684   & +0.537   / -0.537   & +0.272   / -0.272   & +0.219   / -0.219   \\
+JWH  \hline
+JWH  \end{tabular} 
+JWH 
+JWH  \end{center}
+JWH\end{table}

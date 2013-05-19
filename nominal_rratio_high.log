@@ -1,0 +1,1551 @@
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+ FCN=40.4612 FROM MIGRAD    STATUS=CONVERGED      65 CALLS          66 TOTAL
+                     EDM=1.293e-10    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     2.99938e+02   3.46468e+00   1.08930e-02   3.83349e-07
+   2  Mean         9.31257e-01   3.19083e-03   1.00152e-05  -8.53002e-04
+   3  Sigma        2.74940e-01   2.31340e-03   8.77995e-06  -5.70531e-03
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+ FCN=38.4366 FROM MIGRAD    STATUS=CONVERGED      65 CALLS          66 TOTAL
+                     EDM=1.17081e-10    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     3.03981e+02   3.48796e+00   1.06951e-02   3.69449e-07
+   2  Mean         9.31374e-01   3.17025e-03   9.70560e-06  -8.94875e-04
+   3  Sigma        2.75028e-01   2.29281e-03   8.48638e-06  -5.46512e-03
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+ FCN=38.4338 FROM MIGRAD    STATUS=CONVERGED      65 CALLS          66 TOTAL
+                     EDM=1.49364e-10    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     3.07902e+02   3.51037e+00   1.07635e-02   4.19654e-07
+   2  Mean         9.31448e-01   3.14665e-03   9.63196e-06  -9.87398e-04
+   3  Sigma        2.74714e-01   2.27924e-03   8.44447e-06  -6.20870e-03
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+ FCN=40.3982 FROM MIGRAD    STATUS=CONVERGED      64 CALLS          65 TOTAL
+                     EDM=4.12953e-07    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     3.11564e+02   3.53060e+00   1.10920e-02  -2.35676e-04
+   2  Mean         9.31140e-01   3.11663e-03   9.76497e-06  -6.73202e-02
+   3  Sigma        2.73901e-01   2.21891e-03   8.42808e-06  -1.16432e-01
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+ FCN=40.5826 FROM MIGRAD    STATUS=CONVERGED      64 CALLS          65 TOTAL
+                     EDM=3.61743e-07    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     3.15437e+02   3.55248e+00   1.11855e-02  -2.21692e-04
+   2  Mean         9.30861e-01   3.09900e-03   9.72841e-06  -5.67256e-02
+   3  Sigma        2.73957e-01   2.20402e-03   8.38666e-06  -1.05251e-01
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+ FCN=41.8261 FROM MIGRAD    STATUS=CONVERGED      64 CALLS          65 TOTAL
+                     EDM=3.04149e-07    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     3.19268e+02   3.57397e+00   1.14202e-02  -2.01097e-04
+   2  Mean         9.30927e-01   3.07757e-03   9.80366e-06  -5.24298e-02
+   3  Sigma        2.73690e-01   2.18805e-03   8.45684e-06  -1.00866e-01
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+ FCN=42.6758 FROM MIGRAD    STATUS=CONVERGED      64 CALLS          65 TOTAL
+                     EDM=2.90542e-07    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     3.22954e+02   3.59455e+00   1.15994e-02  -1.90413e-04
+   2  Mean         9.31098e-01   3.05946e-03   9.84200e-06  -5.92515e-02
+   3  Sigma        2.73641e-01   2.17732e-03   8.49801e-06  -1.11887e-01
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+ FCN=41.5646 FROM MIGRAD    STATUS=CONVERGED      64 CALLS          65 TOTAL
+                     EDM=2.78674e-07    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     3.27000e+02   3.61699e+00   1.15223e-02  -1.86338e-04
+   2  Mean         9.30800e-01   3.04126e-03   9.65723e-06  -5.58952e-02
+   3  Sigma        2.73684e-01   2.16147e-03   8.32622e-06  -1.08647e-01
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+ FCN=40.5548 FROM MIGRAD    STATUS=CONVERGED      64 CALLS          65 TOTAL
+                     EDM=1.87842e-07    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     3.31001e+02   3.63905e+00   1.14543e-02  -1.58694e-04
+   2  Mean         9.30183e-01   3.02555e-03   9.48815e-06  -3.24145e-02
+   3  Sigma        2.73799e-01   2.15916e-03   8.21435e-06  -7.17080e-02
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+ FCN=40.6924 FROM MIGRAD    STATUS=CONVERGED      64 CALLS          65 TOTAL
+                     EDM=1.29528e-07    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     3.34837e+02   3.66008e+00   1.15395e-02  -1.30574e-04
+   2  Mean         9.29918e-01   3.00889e-03   9.45066e-06  -2.62290e-02
+   3  Sigma        2.73840e-01   2.14144e-03   8.15845e-06  -6.24825e-02
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+ FCN=41.367 FROM MIGRAD    STATUS=CONVERGED      64 CALLS          65 TOTAL
+                     EDM=1.48383e-07    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     3.38649e+02   3.68085e+00   1.16985e-02  -1.39427e-04
+   2  Mean         9.29738e-01   2.98905e-03   9.46552e-06  -2.82777e-02
+   3  Sigma        2.73627e-01   2.12380e-03   8.16438e-06  -6.52582e-02
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+ FCN=39.8396 FROM MIGRAD    STATUS=CONVERGED      64 CALLS          65 TOTAL
+                     EDM=1.81983e-07    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     3.42630e+02   3.70242e+00   1.15530e-02  -1.54197e-04
+   2  Mean         9.29972e-01   2.96749e-03   9.22672e-06  -3.16981e-02
+   3  Sigma        2.73264e-01   2.11738e-03   8.00315e-06  -6.90726e-02
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+ FCN=39.9408 FROM MIGRAD    STATUS=CONVERGED      64 CALLS          65 TOTAL
+                     EDM=1.83122e-07    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     3.46426e+02   3.72286e+00   1.16312e-02  -1.53642e-04
+   2  Mean         9.30272e-01   2.94847e-03   9.17779e-06  -3.18376e-02
+   3  Sigma        2.72983e-01   2.10625e-03   7.97789e-06  -7.06329e-02
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+ FCN=42.1289 FROM MIGRAD    STATUS=CONVERGED      64 CALLS          65 TOTAL
+                     EDM=1.15012e-07    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     3.50179e+02   3.74297e+00   1.20025e-02  -1.17843e-04
+   2  Mean         9.30069e-01   2.93262e-03   9.36753e-06  -2.92603e-02
+   3  Sigma        2.72935e-01   2.09542e-03   8.14402e-06  -6.84305e-02
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+ FCN=43.8955 FROM MIGRAD    STATUS=CONVERGED      56 CALLS          57 TOTAL
+                     EDM=1.28886e-06    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     3.53790e+02   3.76221e+00   1.23088e-02   8.53058e-05
+   2  Mean         9.30084e-01   2.91745e-03   9.50396e-06  -4.51881e-01
+   3  Sigma        2.72834e-01   2.08266e-03   8.25703e-06  -3.89802e-01
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+ FCN=44.7501 FROM MIGRAD    STATUS=CONVERGED      56 CALLS          57 TOTAL
+                     EDM=1.07385e-06    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     3.57476e+02   3.78176e+00   1.24899e-02   8.91336e-05
+   2  Mean         9.29896e-01   2.90075e-03   9.54172e-06  -4.13034e-01
+   3  Sigma        2.72759e-01   2.06768e-03   8.27984e-06  -3.52615e-01
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+ FCN=44.0792 FROM MIGRAD    STATUS=CONVERGED      56 CALLS          57 TOTAL
+                     EDM=1.22206e-06    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     3.61344e+02   3.80216e+00   1.24649e-02   9.53681e-05
+   2  Mean         9.30045e-01   2.88442e-03   9.41704e-06  -4.44049e-01
+   3  Sigma        2.72657e-01   2.06054e-03   8.19196e-06  -3.76029e-01
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+ FCN=45.9218 FROM MIGRAD    STATUS=CONVERGED      56 CALLS          57 TOTAL
+                     EDM=2.22719e-07    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     3.65070e+02   3.82171e+00   1.27824e-02   1.07232e-04
+   2  Mean         9.30508e-01   2.86854e-03   9.54986e-06  -1.62629e-01
+   3  Sigma        2.72421e-01   2.04902e-03   8.31301e-06  -1.17722e-01
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+ FCN=45.3964 FROM MIGRAD    STATUS=CONVERGED      56 CALLS          57 TOTAL
+                     EDM=7.13752e-07    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     3.68971e+02   3.84207e+00   1.27784e-02   9.15147e-05
+   2  Mean         9.30647e-01   2.85044e-03   9.43932e-06  -3.36303e-01
+   3  Sigma        2.72229e-01   2.03049e-03   8.20140e-06  -2.88857e-01
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+ FCN=46.8988 FROM MIGRAD    STATUS=CONVERGED      56 CALLS          57 TOTAL
+                     EDM=2.10403e-07    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     3.72830e+02   3.86210e+00   1.30514e-02   1.03537e-04
+   2  Mean         9.30428e-01   2.83216e-03   9.52715e-06  -1.59487e-01
+   3  Sigma        2.71840e-01   2.02073e-03   8.30234e-06  -1.15777e-01
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+ FCN=46.7901 FROM MIGRAD    STATUS=CONVERGED      56 CALLS          57 TOTAL
+                     EDM=2.17514e-07    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     3.76715e+02   3.88217e+00   1.31043e-02   1.01037e-04
+   2  Mean         9.30098e-01   2.81600e-03   9.46310e-06  -1.65485e-01
+   3  Sigma        2.71726e-01   2.00517e-03   8.23389e-06  -1.22825e-01
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+ FCN=49.7528 FROM MIGRAD    STATUS=CONVERGED      56 CALLS          57 TOTAL
+                     EDM=1.10551e-07    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     3.80476e+02   3.90150e+00   1.35716e-02   1.16855e-04
+   2  Mean         9.30184e-01   2.80103e-03   9.69832e-06  -3.07690e-02
+   3  Sigma        2.71581e-01   1.99194e-03   8.43132e-06   2.78915e-02
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+  FUNCTION VALUE DOES NOT SEEM TO DEPEND ON ANY OF THE 2 VARIABLE PARAMETERS.
+          VERIFY THAT STEP SIZES ARE BIG ENOUGH AND CHECK FCN LOGIC.
+ *******************************************************************************
+ *******************************************************************************
+ FCN=0.00518491 FROM MIGRAD    STATUS=CONVERGED      47 CALLS          48 TOTAL
+                     EDM=3.63041e-08    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     3.98047e-02   3.99030e-02   1.95343e-05   6.62315e-03
+   2  Mean         9.30641e-01   2.73705e-01   1.33303e-04  -9.55000e-05
+   3  Sigma        2.71367e-01   1.92793e-01   1.15891e-04   1.79506e-04
+ FCN=0.000211535 FROM MIGRAD    STATUS=CONVERGED      48 CALLS          49 TOTAL
+                     EDM=1.63176e-09    STRATEGY= 1  ERROR MATRIX UNCERTAINTY   0.1 per cent
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     3.99719e-02   3.99723e-02   3.39083e-06   1.72448e-03
+   2  Mean         9.43454e-01   2.56064e-02  -3.00111e-05   1.24804e-04
+   3  Sigma        2.55907e-02   1.77020e-02  -1.25789e-03   1.81919e-04
+Gaussian mean = 0.943454
+Gaussian width = 0.0255907
+PRINTING RESULTS PLOT
+array size = 99
+ FCN=0.217358 FROM MIGRAD    STATUS=CONVERGED      49 CALLS          50 TOTAL
+                     EDM=1.21155e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           2.02106e-01   1.21216e-03   2.16247e-07   3.82586e-05
+   2  p1          -3.95840e-08   1.71562e-07   7.36602e-10   2.69898e-01
+CHANNEL = all
+SYSTEMATIC = Mass_177 type = 27
+  mean        = 0.201782
+  sigma       = 0.000299234
+  mean_gauss  = 0.930641
+  sigma_gauss = 0.271367
+  mean        = -0.0601828
+  sigma       = 1.96109e-05
+  mean_gauss  = 0.943454
+  sigma_gauss = 0.0255907
+
+****************************************
+Minimizer is Linear
+Chi2                      =     0.125301
+NDf                       =            2
+p0                        =      -10.697   +/-   18.1863     
+p1                        =    0.0726122   +/-   0.106413    
+
+****************************************
+Minimizer is Linear
+Chi2                      =      0.39074
+NDf                       =            2
+p0                        =      3.74473   +/-   7.21967     
+p1                        =   -0.0158087   +/-   0.0421398   
+
+****************************************
+Minimizer is Linear
+Chi2                      =    0.0104846
+NDf                       =            2
+p0                        =      12.9543   +/-   14.8478     
+p1                        =   -0.0726955   +/-   0.086761    
+
+****************************************
+Minimizer is Linear
+Chi2                      =      0.30604
+NDf                       =            2
+p0                        =      4.65607   +/-   5.99439     
+p1                        =   -0.0210935   +/-   0.034991    
+
+****************************************
+Minimizer is Linear
+Chi2                      =    0.0892611
+NDf                       =            2
+p0                        =      3.86896   +/-   1.64107     
+p1                        =   -0.0163265   +/-   0.00954612  
+
+****************************************
+Minimizer is Linear
+Chi2                      =     0.497857
+NDf                       =            2
+p0                        =      4.90284   +/-   0.710815    
+p1                        =   -0.0223863   +/-   0.00413483  
+
+****************************************
+Minimizer is Linear
+Chi2                      =     0.177897
+NDf                       =            2
+p0                        =      4.81259   +/-   1.32978     
+p1                        =   -0.0221051   +/-   0.00773641  
+
+****************************************
+Minimizer is Linear
+Chi2                      =     0.458478
+NDf                       =            2
+p0                        =      4.74736   +/-   0.616399    
+p1                        =   -0.0215297   +/-   0.00358726  
+ee line m   = 0.0726122 c = -10.697
+emu line m  = -0.0158087 c = 3.74473
+mumu line m = -0.0726955 c = 12.9543
+all line m  = -0.0210935 c = 4.65607
+ee line m xsec   = -0.0163265 c = 3.86896
+emu line m xsec  = -0.0223863 c = 4.90284
+mumu line m xsec = -0.0221051 c = 4.81259
+all line m xsec  = -0.0215297 c = 4.74736
+ee line m   = 0.0726122 c = -10.697
+emu line m  = -0.0158087 c = 3.74473
+mumu line m = -0.0726955 c = 12.9543
+all line m  = -0.0210935 c = 4.65607
+JWH 
+JWH **************************************
+JWH * VARIABLE : nominal_rratio_high ee
+JWH * Fsm                        = 1.78753
+JWH * ttbar Normalisation        = 1.02883
+JWH --------------------------------------------
+JWH fsm_ee = 1.78753, ttbar xsec = 1.12671
+JWH fsm_emu = 0.652108, ttbar xsec = 1.02047
+JWH fsm_mumu = 0.194454, ttbar xsec = 0.998765
+JWH fsm_all = 0.682245, ttbar xsec = 1.02883
+JWH  
+JWH Upwards systematics 
+JWH channels_counter = +0
+JWH *  Stat            +0.7805
+JWH *  $JESUp_0$       +0.0508
+JWH *  $JESUp_1$       -0.1166
+JWH *  $JESUp_2$       +0.0740
+JWH *  $JESUp_3$       +0.2506
+JWH *  $JESUp_4$       -0.1130
+JWH *  $JESUp_5$       -0.0055
+JWH *  $JESUp_6$       +0.1308
+JWH *  $JESUp_7$       -0.1552
+JWH *  $JESUp_8$       +0.0049
+JWH *  $JESUp_9$       -0.3351
+JWH *  $JESUp_{10}$    -0.2382
+JWH *  $JESUp_{11}$    +0.2124
+JWH *  $JESUp_{12}$    +0.0715
+JWH *  $JESUp_{13}$    -0.2021
+JWH *  $JESUp_{14}$    -0.1460
+JWH *  $JESUp_{15}$    -0.1466
+JWH *  JVFUp           -0.0174
+JWH *  ElSmearUp       -0.0660
+JWH *  ElScaleUp       +0.0387
+JWH *  MuIDUp          +0.0000
+JWH *  MuMSUp          -1.1699
+JWH *  metpileupup     -0.0643
+JWH *  metsoftup       +0.0079
+JWH *  eeSFUp          +0.0193
+JWH *  mumuSFUp        +0.0000
+JWH *  emuSFUp         +0.0000
+JWH *  Template        +0.0000
+JWH *  fakes_mushape   +0.9035
+JWH *  fakes_normalisation_Up -0.0237
+JWH *  fakes_elreal_Up +0.1274
+JWH *  fakes_elfake_Up +0.5482
+JWH *  Luminosity_Up   -0.0003
+JWH *  JER             +0.6182
+JWH *  JRE             +0.0209
+JWH *  muscale_up      -0.0008
+JWH *  ISR_up          +0.1292
+JWH *  MuScaleOff      +0.0339
+JWH *  singletop_bk    +0.0024
+JWH *  ztautau_bk      -0.0050
+JWH *  WW_bk           +0.0048
+JWH *  WZ_bk           -0.0003
+JWH *  ZZ_bk           +0.0001
+JWH *  Stat            +0.7805
+JWH *  $JESDown_0$     -0.1075
+JWH *  $JESDown_1$     -0.4449
+JWH *  $JESDown_2$     +0.0187
+JWH *  $JESDown_3$     -0.2090
+JWH *  $JESDown_4$     -0.4462
+JWH *  $JESDown_5$     -0.0929
+JWH *  $JESDown_6$     +0.1000
+JWH *  $JESDown_7$     -0.2101
+JWH *  $JESDown_8$     +0.0051
+JWH *  $JESDown_9$     -0.3073
+JWH *  $JESDown_{10}$  -0.0345
+JWH *  $JESDown_{11}$  -0.1975
+JWH *  $JESDown_{12}$  -0.2322
+JWH *  $JESDown_{13}$  -0.0800
+JWH *  $JESDown_{14}$  +0.0570
+JWH *  $JESDown_{15}$  -0.4951
+JWH *  JVFDown         -0.0174
+JWH *  ElSmearDown     +0.0125
+JWH *  ElScaleDown     -0.0798
+JWH *  MuIDLow         +0.0031
+JWH *  MuMSLow         +0.0309
+JWH *  metpileupdown   +0.0533
+JWH *  metsoftdown     +0.0035
+JWH *  eeSFDown        -0.0259
+JWH *  mumuSFDown      +0.0000
+JWH *  emuSFDown       +0.0000
+JWH *  Template        +0.0000
+JWH *  fakes_mushape   +0.9035
+JWH *  fakes_normalisation_Down +0.0175
+JWH *  fakes_elreal_Down +0.1487
+JWH *  fakes_elfake_Down -0.0553
+JWH *  Luminosity_Down +0.0003
+JWH *  JER             +0.6182
+JWH *  JRE             +0.0209
+JWH *  muscale_down    +0.1952
+JWH *  ISR_up          +0.1292
+JWH *  MuScaleOff      +0.0339
+JWH *  singletop_bk    -0.0025
+JWH *  ztautau_bk      +0.0050
+JWH *  WW_bk           -0.0045
+JWH *  WZ_bk           +0.0004
+JWH *  ZZ_bk           -0.0001
+JWH 
+JWH Other systematics 
+JWH *  POWHEG_PYTHIA   +1.5233
+JWH *  POWHEG_HERWIG   +1.6822
+JWH *  MCATNLO_AF2     +1.9503
+JWH *  ALPGEN          +1.3501
+JWH 
+JWH --------------------------------------------
+JWH * Total Upwards Systematic   = +0.0000
+JWH * Total Downwards Systematic = +0.0000
+JWH **************************************
+JWH 
+JWH **************************************
+JWH * VARIABLE : nominal_rratio_high mumu
+JWH * Fsm                        = +0.1945
+JWH * ttbar Normalisation        = +1.0288
+JWH --------------------------------------------
+JWH fsm_ee = +1.7875, ttbar xsec = +1.1267
+JWH fsm_emu = +0.6521, ttbar xsec = +1.0205
+JWH fsm_mumu = +0.1945, ttbar xsec = +0.9988
+JWH fsm_all = +0.6822, ttbar xsec = +1.0288
+JWH  
+JWH Upwards systematics 
+JWH channels_counter = +1
+JWH *  Stat            +0.5977
+JWH *  $JESUp_0$       +0.1955
+JWH *  $JESUp_1$       +0.2722
+JWH *  $JESUp_2$       -0.0424
+JWH *  $JESUp_3$       -0.1110
+JWH *  $JESUp_4$       +0.0628
+JWH *  $JESUp_5$       +0.1731
+JWH *  $JESUp_6$       +0.1990
+JWH *  $JESUp_7$       +0.1119
+JWH *  $JESUp_8$       +0.0002
+JWH *  $JESUp_9$       +0.1666
+JWH *  $JESUp_{10}$    +0.2933
+JWH *  $JESUp_{11}$    +0.0401
+JWH *  $JESUp_{12}$    +0.0307
+JWH *  $JESUp_{13}$    +0.2299
+JWH *  $JESUp_{14}$    +0.1894
+JWH *  $JESUp_{15}$    +0.1316
+JWH *  JVFUp           +0.0154
+JWH *  ElSmearUp       +0.0003
+JWH *  ElScaleUp       -0.4723
+JWH *  MuIDUp          +0.0198
+JWH *  MuMSUp          +0.8920
+JWH *  metpileupup     +0.1470
+JWH *  metsoftup       +0.1551
+JWH *  eeSFUp          +0.0000
+JWH *  mumuSFUp        -0.0014
+JWH *  emuSFUp         +0.0000
+JWH *  Template        +0.0838
+JWH *  fakes_mushape   +0.0293
+JWH *  fakes_normalisation_Up +0.0116
+JWH *  fakes_elreal_Up -0.0158
+JWH *  fakes_elfake_Up -0.0158
+JWH *  Luminosity_Up   +0.0008
+JWH *  JER             +0.0475
+JWH *  JRE             +0.0626
+JWH *  muscale_up      +0.3074
+JWH *  ISR_up          +0.1058
+JWH *  MuScaleOff      +0.0560
+JWH *  singletop_bk    +0.0031
+JWH *  ztautau_bk      -0.0123
+JWH *  WW_bk           +0.0119
+JWH *  WZ_bk           -0.0010
+JWH *  ZZ_bk           +0.0000
+JWH *  Stat            +0.5977
+JWH *  $JESDown_0$     +0.0654
+JWH *  $JESDown_1$     +0.4040
+JWH *  $JESDown_2$     +0.0135
+JWH *  $JESDown_3$     +0.1365
+JWH *  $JESDown_4$     +0.0965
+JWH *  $JESDown_5$     +0.3300
+JWH *  $JESDown_6$     +0.3340
+JWH *  $JESDown_7$     +0.1867
+JWH *  $JESDown_8$     +0.0000
+JWH *  $JESDown_9$     +0.2341
+JWH *  $JESDown_{10}$  +0.2047
+JWH *  $JESDown_{11}$  +0.0123
+JWH *  $JESDown_{12}$  +0.1043
+JWH *  $JESDown_{13}$  +0.2132
+JWH *  $JESDown_{14}$  +0.2116
+JWH *  $JESDown_{15}$  +0.1748
+JWH *  JVFDown         +0.0154
+JWH *  ElSmearDown     +0.0002
+JWH *  ElScaleDown     -0.0003
+JWH *  MuIDLow         +0.0011
+JWH *  MuMSLow         +0.0009
+JWH *  metpileupdown   +0.1909
+JWH *  metsoftdown     +0.1566
+JWH *  eeSFDown        +0.0000
+JWH *  mumuSFDown      +0.0053
+JWH *  emuSFDown       +0.0000
+JWH *  Template        +0.0838
+JWH *  fakes_mushape   +0.0293
+JWH *  fakes_normalisation_Down -0.0116
+JWH *  fakes_elreal_Down -0.0158
+JWH *  fakes_elfake_Down -0.0158
+JWH *  Luminosity_Down -0.0008
+JWH *  JER             +0.0475
+JWH *  JRE             +0.0626
+JWH *  muscale_down    +0.2582
+JWH *  ISR_up          +0.1058
+JWH *  MuScaleOff      +0.0560
+JWH *  singletop_bk    -0.0033
+JWH *  ztautau_bk      +0.0124
+JWH *  WW_bk           -0.0106
+JWH *  WZ_bk           +0.0010
+JWH *  ZZ_bk           +0.0000
+JWH 
+JWH Other systematics 
+JWH *  POWHEG_PYTHIA   +0.4076
+JWH *  POWHEG_HERWIG   +0.2657
+JWH *  MCATNLO_AF2     +0.3753
+JWH *  ALPGEN          +0.0792
+JWH 
+JWH --------------------------------------------
+JWH * Total Upwards Systematic   = +0.0000
+JWH * Total Downwards Systematic = +0.0000
+JWH **************************************
+JWH 
+JWH **************************************
+JWH * VARIABLE : nominal_rratio_high emu
+JWH * Fsm                        = +0.6521
+JWH * ttbar Normalisation        = +1.0288
+JWH --------------------------------------------
+JWH fsm_ee = +1.7875, ttbar xsec = +1.1267
+JWH fsm_emu = +0.6521, ttbar xsec = +1.0205
+JWH fsm_mumu = +0.1945, ttbar xsec = +0.9988
+JWH fsm_all = +0.6822, ttbar xsec = +1.0288
+JWH  
+JWH Upwards systematics 
+JWH channels_counter = +2
+JWH *  Stat            +0.3206
+JWH *  $JESUp_0$       +0.0394
+JWH *  $JESUp_1$       -0.0153
+JWH *  $JESUp_2$       +0.0354
+JWH *  $JESUp_3$       +0.0353
+JWH *  $JESUp_4$       +0.0183
+JWH *  $JESUp_5$       -0.0136
+JWH *  $JESUp_6$       +0.0087
+JWH *  $JESUp_7$       +0.0335
+JWH *  $JESUp_8$       -0.0001
+JWH *  $JESUp_9$       +0.0225
+JWH *  $JESUp_{10}$    +0.0455
+JWH *  $JESUp_{11}$    +0.0195
+JWH *  $JESUp_{12}$    -0.0241
+JWH *  $JESUp_{13}$    +0.0032
+JWH *  $JESUp_{14}$    +0.0183
+JWH *  $JESUp_{15}$    +0.0303
+JWH *  JVFUp           +0.0157
+JWH *  ElSmearUp       +0.0059
+JWH *  ElScaleUp       +0.0269
+JWH *  MuIDUp          +0.0075
+JWH *  MuMSUp          +0.0033
+JWH *  metpileupup     +0.0102
+JWH *  metsoftup       +0.0153
+JWH *  eeSFUp          -0.0000
+JWH *  mumuSFUp        -0.0000
+JWH *  emuSFUp         +0.0031
+JWH *  Template        +0.5000
+JWH *  fakes_mushape   +0.0291
+JWH *  fakes_normalisation_Up -0.0112
+JWH *  fakes_elreal_Up +0.0141
+JWH *  fakes_elfake_Up +0.0344
+JWH *  Luminosity_Up   -0.0007
+JWH *  JER             +0.0242
+JWH *  JRE             +0.0727
+JWH *  muscale_up      +0.3015
+JWH *  ISR_up          +0.0218
+JWH *  MuScaleOff      +0.0240
+JWH *  singletop_bk    +0.0031
+JWH *  ztautau_bk      -0.0074
+JWH *  WW_bk           +0.0018
+JWH *  WZ_bk           +0.0006
+JWH *  ZZ_bk           -0.0002
+JWH *  Stat            +0.3206
+JWH *  $JESDown_0$     +0.0682
+JWH *  $JESDown_1$     +0.0412
+JWH *  $JESDown_2$     +0.0042
+JWH *  $JESDown_3$     +0.0193
+JWH *  $JESDown_4$     +0.0088
+JWH *  $JESDown_5$     +0.0402
+JWH *  $JESDown_6$     +0.0166
+JWH *  $JESDown_7$     +0.0150
+JWH *  $JESDown_8$     -0.0002
+JWH *  $JESDown_9$     +0.0000
+JWH *  $JESDown_{10}$  +0.0126
+JWH *  $JESDown_{11}$  +0.0666
+JWH *  $JESDown_{12}$  +0.0834
+JWH *  $JESDown_{13}$  +0.0474
+JWH *  $JESDown_{14}$  +0.0300
+JWH *  $JESDown_{15}$  +0.0366
+JWH *  JVFDown         +0.0157
+JWH *  ElSmearDown     +0.0214
+JWH *  ElScaleDown     -0.0188
+JWH *  MuIDLow         -0.0017
+JWH *  MuMSLow         +0.0022
+JWH *  metpileupdown   +0.0005
+JWH *  metsoftdown     +0.0031
+JWH *  eeSFDown        -0.0000
+JWH *  mumuSFDown      -0.0000
+JWH *  emuSFDown       +0.0032
+JWH *  Template        +0.5000
+JWH *  fakes_mushape   +0.0291
+JWH *  fakes_normalisation_Down +0.0115
+JWH *  fakes_elreal_Down +0.0303
+JWH *  fakes_elfake_Down +0.0136
+JWH *  Luminosity_Down +0.0007
+JWH *  JER             +0.0242
+JWH *  JRE             +0.0727
+JWH *  muscale_down    +0.2568
+JWH *  ISR_up          +0.0218
+JWH *  MuScaleOff      +0.0240
+JWH *  singletop_bk    -0.0032
+JWH *  ztautau_bk      +0.0074
+JWH *  WW_bk           -0.0017
+JWH *  WZ_bk           -0.0006
+JWH *  ZZ_bk           +0.0002
+JWH 
+JWH Other systematics 
+JWH *  POWHEG_PYTHIA   +0.8865
+JWH *  POWHEG_HERWIG   +0.6769
+JWH *  MCATNLO_AF2     +0.9166
+JWH *  ALPGEN          +0.3630
+JWH 
+JWH --------------------------------------------
+JWH * Total Upwards Systematic   = +0.0000
+JWH * Total Downwards Systematic = +0.0000
+JWH **************************************
+JWH 
+JWH **************************************
+JWH * VARIABLE : nominal_rratio_high all
+JWH * Fsm                        = +0.6822
+JWH * ttbar Normalisation        = +1.0288
+JWH --------------------------------------------
+JWH fsm_ee = +1.7875, ttbar xsec = +1.1267
+JWH fsm_emu = +0.6521, ttbar xsec = +1.0205
+JWH fsm_mumu = +0.1945, ttbar xsec = +0.9988
+JWH fsm_all = +0.6822, ttbar xsec = +1.0288
+JWH  
+JWH Upwards systematics 
+JWH channels_counter = +3
+JWH *  Stat            +0.2602
+JWH *  $JESUp_0$       +0.0493
+JWH *  $JESUp_1$       +0.0364
+JWH *  $JESUp_2$       +0.0233
+JWH *  $JESUp_3$       -0.0003
+JWH *  $JESUp_4$       +0.0161
+JWH *  $JESUp_5$       +0.0034
+JWH *  $JESUp_6$       +0.0485
+JWH *  $JESUp_7$       +0.0282
+JWH *  $JESUp_8$       +0.0001
+JWH *  $JESUp_9$       -0.0137
+JWH *  $JESUp_{10}$    +0.0503
+JWH *  $JESUp_{11}$    +0.0232
+JWH *  $JESUp_{12}$    -0.0171
+JWH *  $JESUp_{13}$    -0.0040
+JWH *  $JESUp_{14}$    +0.0259
+JWH *  $JESUp_{15}$    +0.0197
+JWH *  JVFUp           +0.0211
+JWH *  ElSmearUp       -0.0014
+JWH *  ElScaleUp       +0.0486
+JWH *  MuIDUp          +0.0059
+JWH *  MuMSUp          +0.1521
+JWH *  metpileupup     +0.0217
+JWH *  metsoftup       +0.0201
+JWH *  eeSFUp          +0.0079
+JWH *  mumuSFUp        -0.0189
+JWH *  emuSFUp         +0.0216
+JWH *  Template        +0.1000
+JWH *  fakes_mushape   +0.2114
+JWH *  fakes_normalisation_Up -0.0038
+JWH *  fakes_elreal_Up +0.0321
+JWH *  fakes_elfake_Up +0.1008
+JWH *  Luminosity_Up   -0.0004
+JWH *  JER             +0.0220
+JWH *  JRE             +0.0623
+JWH *  muscale_up      +0.2949
+JWH *  ISR_up          +0.0061
+JWH *  MuScaleOff      +0.0005
+JWH *  singletop_bk    +0.0031
+JWH *  ztautau_bk      -0.0083
+JWH *  WW_bk           +0.0044
+JWH *  WZ_bk           +0.0003
+JWH *  ZZ_bk           -0.0001
+JWH *  Stat            +0.2602
+JWH *  $JESDown_0$     +0.0306
+JWH *  $JESDown_1$     +0.0668
+JWH *  $JESDown_2$     +0.0099
+JWH *  $JESDown_3$     -0.0018
+JWH *  $JESDown_4$     +0.0049
+JWH *  $JESDown_5$     +0.0685
+JWH *  $JESDown_6$     +0.0700
+JWH *  $JESDown_7$     +0.0030
+JWH *  $JESDown_8$     -0.0001
+JWH *  $JESDown_9$     +0.0056
+JWH *  $JESDown_{10}$  +0.0212
+JWH *  $JESDown_{11}$  +0.0077
+JWH *  $JESDown_{12}$  +0.0514
+JWH *  $JESDown_{13}$  +0.0467
+JWH *  $JESDown_{14}$  +0.0521
+JWH *  $JESDown_{15}$  +0.0031
+JWH *  JVFDown         +0.0211
+JWH *  ElSmearDown     +0.0087
+JWH *  ElScaleDown     -0.0377
+JWH *  MuIDLow         -0.0046
+JWH *  MuMSLow         +0.0036
+JWH *  metpileupdown   +0.0317
+JWH *  metsoftdown     +0.0231
+JWH *  eeSFDown        -0.0110
+JWH *  mumuSFDown      +0.0236
+JWH *  emuSFDown       -0.0216
+JWH *  Template        +0.1000
+JWH *  fakes_mushape   +0.2114
+JWH *  fakes_normalisation_Down +0.0037
+JWH *  fakes_elreal_Down +0.0260
+JWH *  fakes_elfake_Down -0.0048
+JWH *  Luminosity_Down +0.0005
+JWH *  JER             +0.0220
+JWH *  JRE             +0.0623
+JWH *  muscale_down    +0.2739
+JWH *  ISR_up          +0.0061
+JWH *  MuScaleOff      +0.0005
+JWH *  singletop_bk    -0.0032
+JWH *  ztautau_bk      +0.0084
+JWH *  WW_bk           -0.0041
+JWH *  WZ_bk           -0.0003
+JWH *  ZZ_bk           +0.0001
+JWH 
+JWH Other systematics 
+JWH *  POWHEG_PYTHIA   +0.8606
+JWH *  POWHEG_HERWIG   +0.7167
+JWH *  MCATNLO_AF2     +0.9405
+JWH *  ALPGEN          +0.4209
+JWH 
+JWH --------------------------------------------
+JWH * Total Upwards Systematic   = +0.0000
+JWH * Total Downwards Systematic = +0.0000
+JWH **************************************
+\begin{table}[htbp]
+\scriptsize
+  \begin{center} 
+  \begin{tabular}{|c|c|c|c|c|}
+  \hline
+Systematic                            &  ee channel&  mumu channel&  emu channel&  combinaton\\
+  \hline
+Data Statistics                       &+0.780              & +0.598              & +0.321              & +0.260             \\
+\hline
+\textbf{Stat Total}                   &+0.000              & +0.000              & +0.000              & +0.000             \\
+\hline
+JES (In-situ: NP1)                    &+0.051   / -0.107   & +0.196   / +0.065   & +0.051   / -0.107   & +0.051   / -0.107  \\
+JES (In-situ: NP2)                    &-0.117   / -0.445   & +0.272   / +0.404   & -0.117   / -0.445   & -0.117   / -0.445  \\
+JES (In-situ: NP3)                    &+0.074   / +0.019   & -0.042   / +0.013   & +0.074   / +0.019   & +0.074   / +0.019  \\
+JES (In-situ: NP4)                    &+0.251   / -0.209   & -0.111   / +0.136   & +0.251   / -0.209   & +0.251   / -0.209  \\
+JES (In-situ: NP5)                    &-0.113   / -0.446   & +0.063   / +0.097   & -0.113   / -0.446   & -0.113   / -0.446  \\
+JES (In-situ: NP6)                    &-0.006   / -0.093   & +0.173   / +0.330   & -0.006   / -0.093   & -0.006   / -0.093  \\
+JES (#eta-inter.: stat)               &+0.131   / +0.100   & +0.199   / +0.334   & +0.131   / +0.100   & +0.131   / +0.100  \\
+JES (#eta-inter.: MC)                 &-0.155   / -0.210   & +0.112   / +0.187   & -0.155   / -0.210   & -0.155   / -0.210  \\
+JES (High pT} extr.)                  &+0.005   / +0.005   & +0.000   / +0.000   & +0.005   / +0.005   & +0.005   / +0.005  \\
+JES (Non-closure)                     &-0.335   / -0.307   & +0.167   / +0.234   & -0.335   / -0.307   & -0.335   / -0.307  \\
+JES (Pile-up: mu)                     &-0.238   / -0.035   & +0.293   / +0.205   & -0.238   / -0.035   & -0.238   / -0.035  \\
+JES (Pile-up: N_{PV}                  &+0.212   / -0.197   & +0.040   / +0.012   & +0.212   / -0.197   & +0.212   / -0.197  \\
+JES (Close-by)                        &+0.071   / -0.232   & +0.031   / +0.104   & +0.071   / -0.232   & +0.071   / -0.232  \\
+JES (Flavour Comp. - ttbar)           &-0.202   / -0.080   & +0.230   / +0.213   & -0.202   / -0.080   & -0.202   / -0.080  \\
+JES (Flavour Comp. Other              &-0.146   / +0.057   & +0.189   / +0.212   & -0.146   / +0.057   & -0.146   / +0.057  \\
+JES (BJES)                            &-0.147   / -0.495   & +0.132   / +0.175   & -0.147   / -0.495   & -0.147   / -0.495  \\
+\hline
+\textbf{JES Total}                    &+0.664   / +0.979   & +0.659   / +0.824   & +0.664   / +0.979   & +0.664   / +0.979  \\
+\hline
+Jet Reconstruction Efficiency         &+0.021              & +0.063              & +0.073              & +0.062             \\
+Jet Energy Resolution                 &+0.618              & +0.048              & +0.024              & +0.022             \\
+Jet Vertex Fraction                   &-0.017              & +0.015              & +0.016              & +0.021             \\
+\hline
+\textbf{Jet Total}                    &+0.619              & +0.080              & +0.078              & +0.069             \\
+\hline
+Electron Energy Smearing              &-0.066   / +0.012   & +0.000   / +0.000   & +0.006   / +0.021   & -0.001   / +0.009  \\
+Electron Energy Scale                 &+0.039   / -0.080   & -0.472   / -0.000   & +0.027   / -0.019   & +0.049   / -0.038  \\
+Muon Momentum Scale                   &+0.034              & +0.056              & +0.024              & +0.000             \\
+MC Scale Factor                       &+0.019   / -0.026   & -0.001   / +0.005   & +0.003   / +0.003   & +0.020   / +0.027  \\
+Muon ID                               &+0.600              & +0.446              & +0.005              & +0.078             \\
+\hline
+\textbf{Lepton Total}                 &+0.607   / +0.607   & +0.652   / +0.450   & +0.037   / +0.038   & +0.094   / +0.091  \\
+\hline
+Muon Fake Shape                       &+0.000              & +0.029              & +0.029              & +0.211             \\
+Electron eff Real                     &+0.127   / +0.149   & +0.000              & +0.014   / +0.030   & +0.032   / +0.026  \\
+Electron eff Fake                     &+0.548   / -0.055   & +0.000              & +0.034   / +0.014   & +0.101   / -0.005  \\
+Fake Normalisation                    &-0.024   / +0.018   & +0.012   / -0.012   & -0.011   / +0.011   & -0.004   / +0.004  \\
+\hline
+\textbf{Fake Total}                   &+0.563   / +0.160   & +0.032   / +0.032   & +0.049   / +0.046   & +0.236   / +0.213  \\
+\hline
+MET pileup                            &-0.064   / +0.053   & +0.147   / +0.191   & +0.010   / +0.001   & +0.022   / +0.032  \\
+MET soft cell out                     &+0.008   / +0.003   & +0.155   / +0.157   & +0.015   / +0.003   & +0.020   / +0.023  \\
+\hline
+\textbf{MET Total}                    &+0.065   / +0.053   & +0.214   / +0.247   & +0.018   / +0.003   & +0.030   / +0.039  \\
+\hline
+Single Top normalisation              &+0.002   / -0.002   & +0.003   / -0.003   & +0.003   / -0.003   & +0.003   / -0.003  \\
+Diboson normalisation (WW)            &+0.005   / -0.005   & +0.012   / -0.011   & +0.002   / -0.002   & +0.004   / -0.004  \\
+Diboson normalisation (WZ)            &-0.000   / +0.000   & -0.001   / +0.001   & +0.001   / -0.001   & +0.000   / -0.000  \\
+Diboson normalisation (ZZ)            &+0.000   / -0.000   & +0.000   / +0.000   & -0.000   / +0.000   & -0.000   / +0.000  \\
+Ztautau normalisation                 &-0.005   / +0.005   & -0.012   / +0.012   & -0.007   / +0.007   & -0.008   / +0.008  \\
+Template Statistics                   &+0.000              & +0.084              & +0.500              & +0.000             \\
+Drell-Yan estimate                    &+0.000              & +0.000              & +0.000              & +0.000             \\
+\hline
+\textbf{Background Total}             &+0.007   / +0.007   & +0.086   / +0.085   & +0.500   / +0.500   & +0.010   / +0.010  \\
+\hline
+Renorm/Fact scales                    &-0.001   / +0.195   & +0.307   / +0.258   & +0.301   / +0.257   & +0.295   / +0.274  \\
+ISR/FSR                               &+0.129   / +0.000   & +0.106   / +0.000   & +0.022   / +0.000   & +0.006   / +0.000  \\
+Luminosity                            &-0.000   / +0.000   & +0.001   / -0.001   & -0.001   / +0.001   & -0.000   / +0.000  \\
+Parton Shower and Fragmentation       &+0.159              & +0.142              & +0.210              & +0.144             \\
+NLO Generator                         &+0.268              & +0.110              & +0.240              & +0.224             \\
+Top Mass                              &+0.073              & -0.073              & -0.016              & +0.073             \\
+PDF Uncertainty                       &+0.000              & +0.000              & +0.000              & +0.000             \\
+\hline
+\textbf{Generator Total}              &+0.073   / +0.208   & +0.316   / +0.268   & +0.302   / +0.257   & +0.304   / +0.283  \\
+\hline
+\hline
+Total Systematics                     &+1.232   / +1.335   & +1.010   / +1.015   & +0.890   / +1.133   & +0.777   / +1.048  \\
+Statistics                            &+0.000              & +0.000              & +0.000              & +0.000             \\
+\hline
+  \end{tabular}
+  \end{center} 
+  \label{tab:fsm_nominal_rratio_high}
+  \caption{This is a test caption}
+\end{table}
+ 
+\begin{table}[htbp]
+\scriptsize
+  \begin{center} 
+  \begin{tabular}{|c|c|c|c|c|}
+  \hline
+\textbf{Stat Total}                   &+0.000              & +0.000              & +0.000              & +0.000             \\
+\textbf{JES Total}                    &+0.664   / +0.979   & +0.659   / +0.824   & +0.664   / +0.979   & +0.664   / +0.979  \\
+\textbf{Jet Total}                    &+0.619              & +0.080              & +0.078              & +0.069             \\
+\textbf{Lepton Total}                 &+0.607   / +0.607   & +0.652   / +0.450   & +0.037   / +0.038   & +0.094   / +0.091  \\
+\textbf{Fake Total}                   &+0.563   / +0.160   & +0.032   / +0.032   & +0.049   / +0.046   & +0.236   / +0.213  \\
+\textbf{MET Total}                    &+0.065   / +0.053   & +0.214   / +0.247   & +0.018   / +0.003   & +0.030   / +0.039  \\
+\textbf{Background Total}             &+0.007   / +0.007   & +0.086   / +0.085   & +0.500   / +0.500   & +0.010   / +0.010  \\
+\textbf{Generator Total}              &+0.073   / +0.208   & +0.316   / +0.268   & +0.302   / +0.257   & +0.304   / +0.283  \\
+  \hline
+  \hline
+Total Systematics                     &+1.232   / +1.335   & +1.010   / +1.015   & +0.890   / +1.133   & +0.777   / +1.048  \\
+Statistics                            &+0.000              & +0.000              & +0.000              & +0.000             \\
+  \hline
+  \end{tabular}
+  \end{center} 
+  \label{tab:fsm_nominal_rratio_high}
+  \caption{This is a test caption}
+\end{table}
+\begin{table}[htbp]
+\scriptsize
+  \begin{center} 
+  \begin{tabular}{|c|c|c|c|c|}
+  \hline
+Systematic                            &  ee channel&  mumu channel&  emu channel&  combinaton\\
+  \hline
+Data Statistics                       &+0.072              & +0.059              & +0.032              & +0.027             \\
+\hline
+\textbf{Stat Total}                   &+0.000              & +0.000              & +0.000              & +0.000             \\
+\hline
+JES (In-situ: NP1)                    &+0.017   / -0.014   & +0.022   / +0.003   & +0.017   / -0.014   & +0.017   / -0.014  \\
+JES (In-situ: NP2)                    &+0.004   / -0.035   & +0.025   / +0.018   & +0.004   / -0.035   & +0.004   / -0.035  \\
+JES (In-situ: NP3)                    &+0.018   / +0.006   & +0.002   / +0.006   & +0.018   / +0.006   & +0.018   / +0.006  \\
+JES (In-situ: NP4)                    &+0.018   / -0.012   & -0.002   / +0.012   & +0.018   / -0.012   & +0.018   / -0.012  \\
+JES (In-situ: NP5)                    &-0.005   / -0.023   & +0.007   / +0.009   & -0.005   / -0.023   & -0.005   / -0.023  \\
+JES (In-situ: NP6)                    &+0.001   / -0.003   & +0.016   / +0.024   & +0.001   / -0.003   & +0.001   / -0.003  \\
+JES (#eta-inter.: stat)               &+0.015   / +0.005   & +0.015   / +0.021   & +0.015   / +0.005   & +0.015   / +0.005  \\
+JES (#eta-inter.: MC)                 &-0.006   / -0.022   & +0.012   / +0.011   & -0.006   / -0.022   & -0.006   / -0.022  \\
+JES (High pT} extr.)                  &+0.000   / +0.000   & -0.000   / -0.000   & +0.000   / +0.000   & +0.000   / +0.000  \\
+JES (Non-closure)                     &-0.022   / -0.016   & -0.016   / +0.017   & -0.022   / -0.016   & -0.022   / -0.016  \\
+JES (Pile-up: mu)                     &-0.024   / -0.010   & +0.023   / +0.016   & -0.024   / -0.010   & -0.024   / -0.010  \\
+JES (Pile-up: N_{PV}                  &+0.015   / -0.017   & +0.008   / -0.004   & +0.015   / -0.017   & +0.015   / -0.017  \\
+JES (Close-by)                        &+0.008   / -0.017   & +0.000   / +0.007   & +0.008   / -0.017   & +0.008   / -0.017  \\
+JES (Flavour Comp. - ttbar)           &-0.003   / -0.009   & +0.008   / +0.008   & -0.003   / -0.009   & -0.003   / -0.009  \\
+JES (Flavour Comp. Other              &-0.008   / +0.000   & +0.013   / +0.015   & -0.008   / +0.000   & -0.008   / +0.000  \\
+JES (BJES)                            &-0.001   / -0.028   & +0.014   / +0.005   & -0.001   / -0.028   & -0.001   / -0.028  \\
+\hline
+\textbf{JES Total}                    &+0.051   / +0.067   & +0.055   / +0.052   & +0.051   / +0.067   & +0.051   / +0.067  \\
+\hline
+Jet Reconstruction Efficiency         &+0.026              & +0.019              & +0.020              & +0.020             \\
+Jet Energy Resolution                 &+0.034              & +0.010              & +0.001              & +0.004             \\
+Jet Vertex Fraction                   &-0.078              & -0.097              & -0.090              & -0.091             \\
+\hline
+\textbf{Jet Total}                    &+0.089              & +0.100              & +0.092              & +0.093             \\
+\hline
+Electron Energy Smearing              &-0.000   / +0.001   & +0.000   / +0.000   & +0.000   / +0.001   & +0.000   / +0.000  \\
+Electron Energy Scale                 &+0.032   / -0.015   & -0.044   / -0.000   & +0.003   / -0.003   & +0.002   / -0.004  \\
+Muon Momentum Scale                   &+0.003              & +0.001              & +0.003              & +0.003             \\
+MC Scale Factor                       &+0.047   / -0.054   & +0.024   / -0.028   & +0.034   / -0.039   & +0.000             \\
+Muon ID                               &+0.107              & +0.069              & +0.001              & +0.010             \\
+\hline
+\textbf{Lepton Total}                 &+0.121   / +0.120   & +0.086   / +0.075   & +0.034   / +0.039   & +0.010   / +0.011  \\
+\hline
+Muon Fake Shape                       &+0.000              & +0.024              & +0.017              & +0.035             \\
+Electron eff Real                     &+0.026   / +0.000   & +0.000              & +0.009   / -0.011   & +0.009   / -0.007  \\
+Electron eff Fake                     &+0.068   / -0.008   & +0.000              & +0.007   / -0.006   & +0.014   / -0.005  \\
+Fake Normalisation                    &+0.010   / -0.010   & +0.003   / -0.003   & +0.007   / -0.007   & +0.006   / -0.006  \\
+\hline
+\textbf{Fake Total}                   &+0.073   / +0.013   & +0.024   / +0.024   & +0.022   / +0.022   & +0.039   / +0.036  \\
+\hline
+MET pileup                            &-0.003   / +0.004   & +0.013   / +0.014   & +0.001   / -0.000   & +0.002   / +0.002  \\
+MET soft cell out                     &+0.005   / -0.003   & +0.014   / +0.011   & +0.001   / +0.001   & +0.003   / +0.001  \\
+\hline
+\textbf{MET Total}                    &+0.005   / +0.005   & +0.019   / +0.018   & +0.002   / +0.001   & +0.003   / +0.002  \\
+\hline
+Single Top normalisation              &+0.003   / -0.003   & +0.003   / -0.003   & +0.003   / -0.003   & +0.003   / -0.003  \\
+Diboson normalisation (WW)            &+0.003   / -0.003   & +0.004   / -0.003   & +0.004   / -0.003   & +0.003   / -0.003  \\
+Diboson normalisation (WZ)            &+0.000   / -0.000   & +0.000   / -0.000   & +0.000   / -0.000   & +0.000   / -0.000  \\
+Diboson normalisation (ZZ)            &+0.000   / -0.000   & +0.000   / -0.000   & +0.000   / -0.000   & +0.000   / -0.000  \\
+Ztautau normalisation                 &+0.001   / -0.001   & +0.002   / -0.002   & +0.002   / -0.002   & +0.002   / -0.002  \\
+Template Statistics                   &+0.000              & +0.000              & +0.000              & +0.000             \\
+Drell-Yan estimate                    &+0.000              & +0.000              & +0.000              & +0.000             \\
+\hline
+\textbf{Background Total}             &+0.004   / +0.004   & +0.005   / +0.005   & +0.005   / +0.005   & +0.005   / +0.005  \\
+\hline
+Renorm/Fact scales                    &+0.071   / +0.073   & +0.027   / +0.014   & +0.048   / +0.043   & +0.046   / +0.040  \\
+ISR/FSR                               &+0.148   / +0.000   & +0.002   / +0.000   & +0.037   / +0.000   & +0.044   / +0.000  \\
+Luminosity                            &+0.020   / -0.020   & +0.020   / -0.020   & +0.020   / -0.020   & +0.020   / -0.020  \\
+Parton Shower and Fragmentation       &+0.062              & +0.065              & +0.058              & +0.060             \\
+NLO Generator                         &+0.072              & +0.039              & +0.069              & +0.064             \\
+Top Mass                              &+0.073              & -0.073              & -0.016              & +0.073             \\
+PDF Uncertainty                       &+0.000              & +0.000              & +0.000              & +0.000             \\
+\hline
+\textbf{Generator Total}              &+0.103   / +0.105   & +0.080   / +0.077   & +0.054   / +0.050   & +0.088   / +0.085  \\
+\hline
+\hline
+Total Systematics                     &+0.203   / +0.195   & +0.167   / +0.158   & +0.126   / +0.133   & +0.144   / +0.148  \\
+Statistics                            &+0.000              & +0.000              & +0.000              & +0.000             \\
+\hline
+  \end{tabular}
+  \end{center} 
+  \label{tab:xsec_nominal_rratio_high}
+  \caption{This is a test caption}
+\end{table}
+ 
+\begin{table}[htbp]
+\scriptsize
+  \begin{center} 
+  \begin{tabular}{|c|c|c|c|c|}
+  \hline
+\textbf{Stat Total}                   &+0.000              & +0.000              & +0.000              & +0.000             \\
+\textbf{JES Total}                    &+0.051   / +0.067   & +0.055   / +0.052   & +0.051   / +0.067   & +0.051   / +0.067  \\
+\textbf{Jet Total}                    &+0.089              & +0.100              & +0.092              & +0.093             \\
+\textbf{Lepton Total}                 &+0.121   / +0.120   & +0.086   / +0.075   & +0.034   / +0.039   & +0.010   / +0.011  \\
+\textbf{Fake Total}                   &+0.073   / +0.013   & +0.024   / +0.024   & +0.022   / +0.022   & +0.039   / +0.036  \\
+\textbf{MET Total}                    &+0.005   / +0.005   & +0.019   / +0.018   & +0.002   / +0.001   & +0.003   / +0.002  \\
+\textbf{Background Total}             &+0.004   / +0.004   & +0.005   / +0.005   & +0.005   / +0.005   & +0.005   / +0.005  \\
+\textbf{Generator Total}              &+0.103   / +0.105   & +0.080   / +0.077   & +0.054   / +0.050   & +0.088   / +0.085  \\
+  \hline
+  \hline
+Total Systematics                     &+0.203   / +0.195   & +0.167   / +0.158   & +0.126   / +0.133   & +0.144   / +0.148  \\
+Statistics                            &+0.000              & +0.000              & +0.000              & +0.000             \\
+  \hline
+  \end{tabular}
+  \end{center} 
+  \label{tab:xsec_nominal_rratio_high}
+  \caption{This is a test caption}
+\end{table}
+JWH\begin{table}[htbp]
+JWH  \begin{center}
+JWH  \begin{tabular}{|c|c|c|c|c|}
+JWH  \hline
+JWH  JWH \textbf{nominal_rratio_high}      &  ee &mumu &emu&all\\
+JWH  \hline
+JWH  $JESUp_0$                             &  +0.051   / -0.107   & +0.196   / +0.065   & +0.039   / +0.068   & +0.049   / +0.031   \\
+JWH  $JESUp_1$                             &  -0.117   / -0.445   & +0.272   / +0.404   & -0.015   / +0.041   & +0.036   / +0.067   \\
+JWH  $JESUp_2$                             &  +0.074   / +0.019   & -0.042   / +0.013   & +0.035   / +0.004   & +0.023   / +0.010   \\
+JWH  $JESUp_3$                             &  +0.251   / -0.209   & -0.111   / +0.136   & +0.035   / +0.019   & -0.000   / -0.002   \\
+JWH  $JESUp_4$                             &  -0.113   / -0.446   & +0.063   / +0.097   & +0.018   / +0.009   & +0.016   / +0.005   \\
+JWH  $JESUp_5$                             &  -0.006   / -0.093   & +0.173   / +0.330   & -0.014   / +0.040   & +0.003   / +0.068   \\
+JWH  $JESUp_6$                             &  +0.131   / +0.100   & +0.199   / +0.334   & +0.009   / +0.017   & +0.048   / +0.070   \\
+JWH  $JESUp_7$                             &  -0.155   / -0.210   & +0.112   / +0.187   & +0.033   / +0.015   & +0.028   / +0.003   \\
+JWH  $JESUp_8$                             &  +0.005   / +0.005   & +0.000   / +0.000   & -0.000   / -0.000   & +0.000   / -0.000   \\
+JWH  $JESUp_9$                             &  -0.335   / -0.307   & +0.167   / +0.234   & +0.023   / +0.000   & -0.014   / +0.006   \\
+JWH  $JESUp_{10}$                          &  -0.238   / -0.035   & +0.293   / +0.205   & +0.045   / +0.013   & +0.050   / +0.021   \\
+JWH  $JESUp_{11}$                          &  +0.212   / -0.197   & +0.040   / +0.012   & +0.019   / +0.067   & +0.023   / +0.008   \\
+JWH  $JESUp_{12}$                          &  +0.071   / -0.232   & +0.031   / +0.104   & -0.024   / +0.083   & -0.017   / +0.051   \\
+JWH  $JESUp_{13}$                          &  -0.202   / -0.080   & +0.230   / +0.213   & +0.003   / +0.047   & -0.004   / +0.047   \\
+JWH  $JESUp_{14}$                          &  -0.146   / +0.057   & +0.189   / +0.212   & +0.018   / +0.030   & +0.026   / +0.052   \\
+JWH  $JESUp_{15}$                          &  -0.147   / -0.495   & +0.132   / +0.175   & +0.030   / +0.037   & +0.020   / +0.003   \\
+JWH  \hline
+JWH  JES Total                             &  +0.664   / -0.979   & +0.659   / -0.824   & +0.104   / -0.158   & +0.111   / -0.152   \\
+JWH  Jet Vertex Fraction                   &  -0.017   / -0.017   & +0.015   / +0.015   & +0.016   / +0.016   & +0.021   / +0.021   \\
+JWH  Jet Energy Resolution                 &  +0.618   / +0.618   & +0.048   / +0.048   & +0.024   / +0.024   & +0.022   / +0.022   \\
+JWH  Jet Reconstruction Eff                &  +0.021   / +0.021   & +0.063   / +0.063   & +0.073   / +0.073   & +0.062   / +0.062   \\
+JWH  \hline
+JWH  \textbf{JET Total}                    &  +0.908   / -1.158   & +0.664   / -0.828   & +0.130   / -0.176   & +0.131   / -0.167   \\
+JWH  \hline
+JWH  Electron Energy Smearing              &  -0.066   / +0.012   & +0.000   / +0.000   & +0.006   / +0.021   & -0.001   / +0.009   \\
+JWH  Electron Energy Scale                 &  +0.039   / -0.080   & -0.472   / -0.000   & +0.027   / -0.019   & +0.049   / -0.038   \\
+JWH  Scale Factor (ee)                     &  +0.019   / -0.026   & +0.000   / +0.000   & +0.000   / +0.000   & +0.008   / -0.011   \\
+JWH  Scale Factor (mumu)                   &  +0.000   / +0.000   & -0.001   / +0.005   & +0.000   / +0.000   & -0.019   / +0.024   \\
+JWH  Scale Factor (emu)                    &  +0.000   / +0.000   & +0.000   / +0.000   & +0.003   / +0.003   & +0.022   / -0.022   \\
+JWH  Muon Momentum Scale offset            &  +0.034   / +0.034   & +0.056   / +0.056   & +0.024   / +0.024   & +0.000   / +0.000   \\
+JWH  Muon Momentum Smearing                &  +0.600   / +0.600   & +0.446   / +0.446   & +0.005   / +0.005   & +0.078   / +0.078   \\
+JWH  \hline
+JWH  \textbf{LEPTON Total}                 &  +0.607   / -0.607   & +0.652   / -0.450   & +0.037   / -0.038   & +0.097   / -0.094   \\
+JWH  \hline
+JWH  Muon Fake Shape                       &  +0.000   / +0.000   & +0.029   / +0.029   & +0.029   / +0.029   & +0.211   / +0.211   \\
+JWH  Fake Normalisation                    &  -0.024   / +0.018   & +0.012   / -0.012   & -0.011   / +0.011   & -0.004   / +0.004   \\
+JWH  Electron eff Real                     &  +0.127   / +0.149   & +0.000   / +0.000   & +0.014   / +0.030   & +0.032   / +0.026   \\
+JWH  Electron eff Fake                     &  +0.548   / -0.055   & +0.000   / +0.000   & +0.034   / +0.014   & +0.101   / -0.005   \\
+JWH  \hline
+JWH  \textbf{Fake Total}                   &  +0.563   / -0.160   & +0.032   / -0.032   & +0.049   / -0.046   & +0.236   / -0.213   \\
+JWH  \hline
+JWH  MET pileup                            &  -0.064   / +0.053   & +0.147   / +0.191   & +0.010   / +0.001   & +0.022   / +0.032   \\
+JWH  MET soft cell out                     &  +0.008   / +0.003   & +0.155   / +0.157   & +0.015   / +0.003   & +0.020   / +0.023   \\
+JWH  \hline
+JWH  \textbf{MET Total}                    &  +0.065   / -0.053   & +0.214   / -0.247   & +0.018   / -0.003   & +0.030   / -0.039   \\
+JWH  \hline
+JWH  Single Top normalisation              &  +0.002   / -0.002   & +0.003   / -0.003   & +0.003   / -0.003   & +0.003   / -0.003   \\
+JWH  Ztautau normalisation                 &  -0.005   / +0.005   & -0.012   / +0.012   & -0.007   / +0.007   & -0.008   / +0.008   \\
+JWH  Diboson normalisation (WW)            &  +0.005   / -0.005   & +0.012   / -0.011   & +0.002   / -0.002   & +0.004   / -0.004   \\
+JWH  Diboson normalisation (WZ)            &  -0.000   / +0.000   & -0.001   / +0.001   & +0.001   / -0.001   & +0.000   / -0.000   \\
+JWH  Diboson normalisation (ZZ)            &  +0.000   / -0.000   & +0.000   / +0.000   & -0.000   / +0.000   & -0.000   / +0.000   \\
+JWH  \hline
+JWH  \textbf{MC Background Total}          &  +0.007   / -0.007   & +0.017   / -0.017   & +0.008   / -0.008   & +0.010   / -0.010   \\
+JWH  \hline
+JWH  Template Statistics                   &  +0.000   / +0.000   & +0.084   / +0.084   & +0.500   / +0.500   & +0.100   / +0.100   \\
+JWH  Luminosity                            &  -0.000   / +0.000   & +0.001   / -0.001   & -0.001   / +0.001   & -0.000   / +0.000   \\
+JWH  Renorm/Fact scales                    &  -0.001   / +0.195   & +0.307   / +0.258   & +0.301   / +0.257   & +0.295   / +0.274   \\
+JWH  ISR/FSR                               &  +0.129   / +0.159   & +0.106   / +0.142   & +0.022   / +0.210   & +0.006   / +0.144   \\
+JWH  PS and Fragmentation                  &  +0.159   / +0.268   & +0.142   / +0.110   & +0.210   / +0.240   & +0.144   / +0.224   \\
+JWH  NLO Generator                         &  +0.268   / +0.000   & +0.110   / +0.000   & +0.240   / +0.000   & +0.224   / +nan     \\
+JWH  \hline
+JWH  \textbf{Generator Total}              &  +0.337   / -0.368   & +0.381   / -0.325   & +0.665   / -0.646   & +0.410   / +nan     \\
+JWH  \hline
+JWH  \hline
+JWH  \textbf{Total Uncertainty (syst)}     &  +1.274   / -1.368   & +1.006   / -0.998   & +0.681   / -0.672   & +0.500   / +nan     \\
+JWH  \textbf{Total Uncertainty (stat)}     &  +0.780   / -0.780   & +0.598   / -0.598   & +0.321   / -0.321   & +0.260   / -0.260   \\
+JWH  \hline
+JWH  \end{tabular} 
+JWH 
+JWH  \end{center}
+JWH\end{table}
+JWH 
+JWH fsm_ee = +1.788, ttbar xsec = +1.127
+JWH fsm_mumu = +0.194, ttbar xsec = +0.999
+JWH fsm_emu = +0.652, ttbar xsec = +1.020
+JWH fsm_all = +0.682, ttbar xsec = +1.029
+ 
+dil_nominal_rratio_high_ee	 =["nominal_rratio_high #bf{ee}", +1.788, +0.780, +1.274, +1.368]
+dil_nominal_rratio_high_mumu	 =["nominal_rratio_high #bf{#mu#mu}", +0.194, +0.598, +1.006, +0.998]
+dil_nominal_rratio_high_emu	 =["nominal_rratio_high #bf{e#mu}", +0.652, +0.321, +0.681, +0.672]
+dil_nominal_rratio_high_all	 =["nominal_rratio_high #bf{all}", +0.682, +0.260, +0.500, +nan]
+JWH 
+JWHBeginning LaTeX output 
+JWH 
+JWH\begin{table}[htbp]
+JWH  \begin{center}
+JWH  \begin{tabular}{|c|c|c|c|c|}
+JWH  \hline
+JWH  JWH \textbf{nominal_rratio_high}      &  ee &mumu &emu&all\\
+JWH  \hline
+JWH  \hline
+JWH  \textbf{LEPTON Total}                 &  +0.607   / -0.607   & +0.652   / -0.450   & +0.037   / -0.038   & +0.097   / -0.094   \\
+JWH  \hline
+JWH  \textbf{JET Total}                    &  +0.908   / -1.158   & +0.664   / -0.828   & +0.130   / -0.176   & +0.131   / -0.167   \\
+JWH  \hline
+JWH  \textbf{MET Total}                    &  +0.065   / -0.053   & +0.214   / -0.247   & +0.018   / -0.003   & +0.030   / -0.039   \\
+JWH  \hline
+JWH  \textbf{Background Total}             &  +0.563   / -0.160   & +0.036   / -0.036   & +0.049   / -0.046   & +0.237   / -0.213   \\
+JWH  \hline
+JWH  \textbf{Generator Total}              &  +0.337   / -0.368   & +0.381   / -0.325   & +0.665   / -0.646   & +0.410   / +nan     \\
+JWH  \hline
+JWH  \hline
+JWH  \textbf{Total Uncertainty (syst)}     &  +1.274   / -1.368   & +1.006   / -0.998   & +0.681   / -0.672   & +0.500   / +nan     \\
+JWH  \textbf{Total Uncertainty (stat)}     &  +0.780   / -0.780   & +0.598   / -0.598   & +0.321   / -0.321   & +0.260   / -0.260   \\
+JWH  \hline
+JWH  \end{tabular} 
+JWH 
+JWH  \end{center}
+JWH\end{table}

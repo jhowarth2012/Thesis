@@ -1,0 +1,12 @@
+python wordCounter.py ch_abstract.tex
+python wordCounter.py ch_declaration.tex
+python wordCounter.py ch_copyright.tex
+python wordCounter.py ch_acknowledgements.tex
+python wordCounter.py TheTopQuark.tex
+python wordCounter.py AtlasDetector.tex
+python wordCounter.py TriggerMonitoring.tex
+python wordCounter.py Observables.tex
+python wordCounter.py EventReconstruction.tex
+python wordCounter.py Extraction.tex
+python wordCounter.py Results.tex
+python wordCounter.py Summary.tex
