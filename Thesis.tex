@@ -2,25 +2,40 @@
 \usepackage[a4paper]{geometry}
 %\geometry{left=41mm,right=24mm,top=35mm,bottom=25mm} %add twoside for double sided
 \geometry{left=24mm,right=24mm,top=35mm,bottom=25mm} %add twoside for double sided printing
-\usepackage[tight]{subfigure}
-\usepackage{rotating}
-\usepackage{pifont}
-\usepackage{lscape}
+
+\usepackage{graphicx}
+\usepackage[font=small,labelfont=bf]{caption}
+\usepackage{subcaption}
 \usepackage{setspace}
 \usepackage{amsmath}
-\usepackage{multirow}
-\usepackage{multicol}
-\usepackage{sidecap}
-\usepackage{comment}
-\usepackage{graphics,amssymb,float,psfrag}
-\usepackage{hyperref}
-\usepackage{url}
 \usepackage[usenames]{color}
 \usepackage[usenames,dvipsnames]{xcolor}
 \usepackage{morefloats}
-\usepackage{todonotes}
-\usepackage[font=small,labelfont=bf]{caption}
-\usepackage{mathrsfs}
+\usepackage{url}
+\usepackage{hyperref}
+
+%\usepackage[tight]{subfigure}
+%\usepackage{mathrsfs}
+%\usepackage{rotating}
+%\usepackage{pifont}
+%\usepackage{lscape}
+%\usepackage{setspace}
+%\usepackage{amsmath}
+%\usepackage{multirow}
+%\usepackage{multicol}
+%\usepackage{sidecap}
+%\usepackage{comment}
+%\usepackage{amssymb,float,psfrag}
+%\usepackage{graphicx}
+%\usepackage{hyperref}
+%\usepackage{url}
+%\usepackage[usenames]{color}
+%\usepackage[usenames,dvipsnames]{xcolor}
+%\usepackage{morefloats}
+%\usepackage{todonotes}
+%\usepackage[font=small,labelfont=bf]{caption}
+%\usepackage{hyperref}
+%\usepackage{subcaption}
 
 \graphicspath{{f/}}
 
@@ -134,7 +149,6 @@ School of Physics and Astronomy\\
 %% START OF THESIS 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \clearpage
-\listoftodos
 
 \clearpage
 \input{TheTopQuark.tex}
@@ -165,14 +179,15 @@ School of Physics and Astronomy\\
 %\input{ch_conclusion.tex}
 
 \clearpage
-\bibliographystyle{h-physrev3}
+%\bibliographystyle{h-physrev3}
+\bibliographystyle{atlasBibStyleWithTitle}
 \bibliography{Thesis_bib}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% START OF APPENDIX
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\appendix
+%\appendix
 
 %\clearpage
 %\chapter{Neutrino Solution}

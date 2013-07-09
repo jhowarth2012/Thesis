@@ -1,22 +1,66 @@
-\begin{thebibliography}{1}
+\providecommand{\href}[2]{#2}\begingroup\raggedright\begin{thebibliography}{10}
+
+\bibitem{Gaines:2000qc}
+I.~Gaines, S.~Gonzalez, and S.~Qian,
+{\em {Implementation of an object oriented track reconstruction model into
+  multiple LHC experiments}},.
+%%CITATION = INSPIRE-538250;%%.
+
+\bibitem{Candlin:2001fa}
+D.~Candlin, R.~Candlin, and S.-J. Qian, {\em {Update of an object oriented
+  track reconstruction model for LHC experiments}},
+Conf.Proc. {\bfseries C0109031} (2001) 140--144.
+%%CITATION = CONFP,C0109031,140;%%.
 
 \bibitem{LeptonTrigger}
-T.~A. Collaboration,
-\newblock CERN Report No. ATL-COM-PHYS-2011-123, 2011 (unpublished).
+T.~A. Collaboration, {\em Lepton trigger and identification for the Winter 2011
+  top quark analyses}, Tech. Rep. ATL-COM-PHYS-2011-123, CERN, Geneva, March,
+  2011.
 
 \bibitem{fakes}
-{B. Abi, et al.}
+{B. Abi, et al.}, {\em Mis-identified lepton backgrounds to top quark pair
+  production for moriond 2011 analysis.},.
 
 \bibitem{topwg}
-{B. Acharya, et al.}
+{B. Acharya, et al.}, {\em Object selection and calibration, background
+  estimation and MC samples for the Winter 2012 Top Quark analyses with 2011
+  data.},.
 
 \bibitem{Meyer:2007zz}
 J.~M. Meyer,
-\newblock (2007).
-%%CITATION = FERMILAB-THESIS-2007-65 ETC.;%%
+{\em Measurement of the Top Quark Mass using Dilepton Events and a Neutrino
+  Weighting Algorithm with the D0 Experiment at the Tevatron (Run II)},.
+%%CITATION = FERMILAB-THESIS-2007-65 ETC.;%%.
 
 \bibitem{nuWtmass}
-V.~M.~A. et~al.,
-\newblock Phys. Rev. D {\bf 80}, 092006 (2009).
+V.~M.~A. et~al. Phys. Rev. D {\bfseries 80} (2009) 092006.
 
-\end{thebibliography}
+\bibitem{metres}
+{ATLAS Collaboration} Collaboration,
+{\em {Performance of Missing Transverse Momentum Reconstruction in ATLAS with
+  2011 Proton-Proton Collisions at $sqrt{s}$ = 7 TeV}},.
+%%CITATION = ATLAS-CONF-2012-101 ETC.;%%.
+
+\bibitem{jetres}
+{ATLAS Collaboration} Collaboration, G.~Aad {et~al.}, {\em {Jet energy
+  resolution in proton-proton collisions at $\sqrt{s}=7$ TeV recorded in 2010
+  with the ATLAS detector}},
+  \href{http://dx.doi.org/10.1140/epjc/s10052-013-2306-0}{Eur.Phys.J.
+  {\bfseries C73} (2013) 2306},
+\href{http://arxiv.org/abs/1210.6210}{{\ttfamily arXiv:1210.6210 [hep-ex]}}.
+%%CITATION = ARXIV:1210.6210;%%.
+
+\bibitem{klfitter}
+A.~Collaboration, ``Klfitter documentation.''
+  \url{https://twiki.cern.ch/twiki/bin/viewauth/AtlasProtected/KLFitter}.
+\newblock [Online; accessed 19-May-2013].
+
+\bibitem{whelicity}
+{ATLAS} Collaboration, {\em Measurement of the W boson polarisation in top
+  quark decays in 0.70 fb?1 of pp collisions at $\sqrt{s} = 7~TeV$ with the
+  ATLAS detector}, Tech. Rep. ATL-CONF-2011-122, August, 2011.
+
+\bibitem{James:1975dr}
+F.~James and M.~Roos Comput. Phys. Commun. {\bfseries 10} (1975) 343.
+
+\end{thebibliography}\endgroup

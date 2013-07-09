@@ -45,9 +45,13 @@ pad.GetFrame().SetFillColor(0);
 pad.GetFrame().SetBorderSize(0);
 
 wordcount.SetLineWidth(2)
+wordcount.SetMarkerSize(1)
+wordcount.SetMarkerStyle(22)
 pagecount.SetLineWidth(2)
-
 pagecount.SetLineColor(4)
+pagecount.SetMarkerSize(1)
+pagecount.SetMarkerStyle(23)
+pagecount.SetMarkerColor(4)
 
 wordcount.Draw("PL")
 
